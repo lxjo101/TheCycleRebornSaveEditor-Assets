@@ -434,7 +434,7 @@
     },
     "Mod_Korolev_Scanner_Veltecite": {
       "displayName": "Veltecite Scanner",
-      "category": "attachments",
+      "category": "mod_scanner",
       "rarity": "common",
       "maxDurability": -1,
       "icon": "VelteciteScanningModule.png",
@@ -442,7 +442,7 @@
     },
     "Mod_Optic_1x_01": {
       "displayName": "1X Optic",
-      "category": "attachments",
+      "category": "mod_optic",
       "rarity": "common",
       "maxDurability": -1,
       "icon": "8xOptic.png",
@@ -450,7 +450,7 @@
     },
     "Mod_Optic_2x_01": {
       "displayName": "2X Optic",
-      "category": "attachments",
+      "category": "mod_optic",
       "rarity": "common",
       "maxDurability": -1,
       "icon": "2xOptic.png",
@@ -458,7 +458,7 @@
     },
     "Mod_Optic_4x_01": {
       "displayName": "4X Optic",
-      "category": "attachments",
+      "category": "mod_optic",
       "rarity": "rare",
       "maxDurability": -1,
       "icon": "4xOptic.png",
@@ -466,7 +466,7 @@
     },
     "Mod_Optic_Variable_01": {
       "displayName": "Variable Optic",
-      "category": "attachments",
+      "category": "mod_optic",
       "rarity": "epic",
       "maxDurability": -1,
       "icon": "2-4xVariableOptic.png",
@@ -474,7 +474,7 @@
     },
     "Mod_Magazine_Light_01": {
       "displayName": "Light Magazine I",
-      "category": "attachments",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "LightExtended.png",
@@ -482,7 +482,7 @@
     },
     "Mod_Magazine_Light_02": {
       "displayName": "Light Magazine Ii",
-      "category": "attachments",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "icon": "LightExtended.png",
@@ -490,7 +490,7 @@
     },
     "Mod_Magazine_Light_03": {
       "displayName": "Light Extended Magazine",
-      "category": "attachments",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "icon": "LightExtended.png",
@@ -498,7 +498,7 @@
     },
     "Mod_Magazine_Medium_01": {
       "displayName": "Medium Magazine I",
-      "category": "attachments",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "MediumExtended.png",
@@ -506,7 +506,7 @@
     },
     "Mod_Magazine_Heavy_01": {
       "displayName": "Heavy Magazine I",
-      "category": "attachments",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "HeavyExtended.png",
@@ -514,7 +514,7 @@
     },
     "Mod_Magazine_Shotgun_01": {
       "displayName": "Shotgun Magazine I",
-      "category": "attachments",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "ShotgunExtended.png",
@@ -522,7 +522,7 @@
     },
     "Mod_Muzzle_Small_Supressor_01": {
       "displayName": "Small Suppressor",
-      "category": "attachments",
+      "category": "mod_muzzle",
       "rarity": "rare",
       "maxDurability": -1,
       "icon": "SmallSuppressor.png",
@@ -530,7 +530,7 @@
     },
     "Mod_RearGrip_ADS_02": {
       "displayName": "Ads Rear Grip",
-      "category": "attachments",
+      "category": "mod_reargrip",
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "TacticalRearGrip.png",
@@ -538,7 +538,7 @@
     },
     "Mod_Converter_Light_AIDMG_03": {
       "displayName": "Light Ai Damage Converter",
-      "category": "attachments",
+      "category": "mod_converter",
       "rarity": "epic",
       "maxDurability": -1,
       "icon": "LightConverter.png",
@@ -1122,7 +1122,7 @@
     },
     "Mod_Muzzle_Standard_Recoil_01": {
       "displayName": "Mod Muzzle Standard Recoil 01",
-      "category": "materials",
+      "category": "mod_muzzle",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1130,7 +1130,7 @@
     },
     "Mod_Magazine_Shotgun_03": {
       "displayName": "Mod Magazine Shotgun 03",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1138,7 +1138,7 @@
     },
     "Mod_Muzzle_Small_Recoil_01": {
       "displayName": "Mod Muzzle Small Recoil 01",
-      "category": "materials",
+      "category": "mod_muzzle",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1162,7 +1162,7 @@
     },
     "Mod_Magazine_Shotgun_02": {
       "displayName": "Mod Magazine Shotgun 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1170,7 +1170,7 @@
     },
     "Mod_RearGrip_02": {
       "displayName": "Mod Reargrip 02",
-      "category": "materials",
+      "category": "mod_reargrip",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1178,7 +1178,7 @@
     },
     "Mod_Converter_Shotgun_01": {
       "displayName": "Mod Converter Shotgun 01",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1186,7 +1186,7 @@
     },
     "Mod_RearGrip_01": {
       "displayName": "Mod Reargrip 01",
-      "category": "materials",
+      "category": "mod_reargrip",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1202,7 +1202,7 @@
     },
     "Mod_ForeGrip_ADS_01": {
       "displayName": "Mod Foregrip Ads 01",
-      "category": "materials",
+      "category": "mod_foregrip",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1210,7 +1210,7 @@
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_02": {
       "displayName": "Mod Magazine Shotgun Reloadspeed 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1218,7 +1218,7 @@
     },
     "Mod_Converter_Light_AIDMG_02": {
       "displayName": "Mod Converter Light Aidmg 02",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1226,7 +1226,7 @@
     },
     "Mod_Converter_Heavy_02": {
       "displayName": "Mod Converter Heavy 02",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1258,7 +1258,7 @@
     },
     "Mod_RearGrip_ADS_01": {
       "displayName": "Mod Reargrip Ads 01",
-      "category": "materials",
+      "category": "mod_reargrip",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1290,7 +1290,7 @@
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_01": {
       "displayName": "Mod Magazine Shotgun Reloadspeed 01",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1298,7 +1298,7 @@
     },
     "Mod_Stock_Standard_ADSEquip_02": {
       "displayName": "Mod Stock Standard Adsequip 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1306,11 +1306,11 @@
     },
     "Mod__Stock_Standard_ADSEquip_01": {
       "displayName": "Mod Stock Standard Adsequip 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 20,
-      "icon": "Unknown.png"
+      "icon": "8xOptic.png"
     },
     "AI_RattlerSkin": {
       "displayName": "Ai Rattlerskin",
@@ -1322,7 +1322,7 @@
     },
     "Mod_Converter_Medium_02": {
       "displayName": "Mod Converter Medium 02",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1338,7 +1338,7 @@
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_03": {
       "displayName": "Mod Magazine Shotgun Reloadspeed 03",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1354,7 +1354,7 @@
     },
     "Mod_MagazineMedium_Reloadspeed_01": {
       "displayName": "Mod Magazinemedium Reloadspeed 01",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 20,
@@ -1370,7 +1370,7 @@
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_04": {
       "displayName": "Mod Magazine Shotgun Reloadspeed 04",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1386,7 +1386,7 @@
     },
     "Mod_Magazine_Light_ReloadSpeed_03": {
       "displayName": "Mod Magazine Light Reloadspeed 03",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1394,7 +1394,7 @@
     },
     "Mod_Magazine_Heavy_ReloadSpeed_02": {
       "displayName": "Mod Magazine Heavy Reloadspeed 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1402,7 +1402,7 @@
     },
     "Mod_Muzzle_Small_Recoil_03": {
       "displayName": "Mod Muzzle Small Recoil 03",
-      "category": "materials",
+      "category": "mod_muzzle",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1418,7 +1418,7 @@
     },
     "Mod_Stock_Standard_ADS_01": {
       "displayName": "Mod Stock Standard Ads 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1426,7 +1426,7 @@
     },
     "Mod_ForeGrip_Angled_02": {
       "displayName": "Mod Foregrip Angled 02",
-      "category": "materials",
+      "category": "mod_foregrip",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1434,7 +1434,7 @@
     },
     "Mod_ForeGrip_Equip_02": {
       "displayName": "Mod Foregrip Equip 02",
-      "category": "materials",
+      "category": "mod_foregrip",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1450,7 +1450,7 @@
     },
     "Mod_Converter_Medium_AIDMG_03": {
       "displayName": "Mod Converter Medium Aidmg 03",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1466,7 +1466,7 @@
     },
     "Mod_Muzzle_Small_Recoil_02": {
       "displayName": "Mod Muzzle Small Recoil 02",
-      "category": "materials",
+      "category": "mod_muzzle",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1474,7 +1474,7 @@
     },
     "Mod_Magazine_Medium_02": {
       "displayName": "Mod Magazine Medium 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1482,7 +1482,7 @@
     },
     "Mod_Optic_1x_02": {
       "displayName": "Mod Optic 1 X 02",
-      "category": "materials",
+      "category": "mod_optic",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1490,7 +1490,7 @@
     },
     "Mod_Converter_Medium_01": {
       "displayName": "Mod Converter Medium 01",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1506,7 +1506,7 @@
     },
     "Mod_Converter_Shotgun_02": {
       "displayName": "Mod Converter Shotgun 02",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1578,7 +1578,7 @@
     },
     "Mod_Stock_Standard_01": {
       "displayName": "Mod Stock Standard 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1594,7 +1594,7 @@
     },
     "Mod_Converter_Medium_AIDMG_02": {
       "displayName": "Mod Converter Medium Aidmg 02",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1610,7 +1610,7 @@
     },
     "Mod_Magazine_Medium_Reloadspeed_02": {
       "displayName": "Mod Magazine Medium Reloadspeed 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1650,7 +1650,7 @@
     },
     "Mod_Optic_6x_01": {
       "displayName": "Mod Optic 6 X 01",
-      "category": "materials",
+      "category": "mod_optic",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1658,7 +1658,7 @@
     },
     "Mod_Magazine_Medium_03": {
       "displayName": "Mod Magazine Medium 03",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1674,7 +1674,7 @@
     },
     "Mod_Stock_Marksman_ADS_02": {
       "displayName": "Mod Stock Marksman Ads 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1682,7 +1682,7 @@
     },
     "Mod_Muzzle_Standard_Recoil_02": {
       "displayName": "Mod Muzzle Standard Recoil 02",
-      "category": "materials",
+      "category": "mod_muzzle",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1714,7 +1714,7 @@
     },
     "Mod_Magazine_Light_EXTReload_02": {
       "displayName": "Mod Magazine Light Extreload 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1722,7 +1722,7 @@
     },
     "Mod_Converter_Heavy_01": {
       "displayName": "Mod Converter Heavy 01",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1738,7 +1738,7 @@
     },
     "Mod_Magazine_Heavy_ReloadSpeed_03": {
       "displayName": "Mod Magazine Heavy Reloadspeed 03",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1754,7 +1754,7 @@
     },
     "Mod_Magazine_Light_ReloadSpeed_04": {
       "displayName": "Mod Magazine Light Reloadspeed 04",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1770,7 +1770,7 @@
     },
     "Mod_Converter_Medium_AIDMG_01": {
       "displayName": "Mod Converter Medium Aidmg 01",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1778,7 +1778,7 @@
     },
     "Mod_Stock_Marksman_02": {
       "displayName": "Mod Stock Marksman 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1802,7 +1802,7 @@
     },
     "Mod_Converter_Light_03": {
       "displayName": "Mod Converter Light 03",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1810,7 +1810,7 @@
     },
     "Mod_Converter_Medium_03": {
       "displayName": "Mod Converter Medium 03",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1826,7 +1826,7 @@
     },
     "Mod_Converter_Heavy_03": {
       "displayName": "Mod Converter Heavy 03",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1834,7 +1834,7 @@
     },
     "Mod_ForeGrip_Angled_01": {
       "displayName": "Mod Foregrip Angled 01",
-      "category": "materials",
+      "category": "mod_foregrip",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1842,7 +1842,7 @@
     },
     "Mod_Converter_Light_02": {
       "displayName": "Mod Converter Light 02",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1850,7 +1850,7 @@
     },
     "Mod_ForeGrip_Equip_01": {
       "displayName": "Mod Foregrip Equip 01",
-      "category": "materials",
+      "category": "mod_foregrip",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1858,7 +1858,7 @@
     },
     "Mod_Magazine_Light_ReloadSpeed_01": {
       "displayName": "Mod Magazine Light Reloadspeed 01",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1866,7 +1866,7 @@
     },
     "Mod_Magazine_Heavy_03": {
       "displayName": "Mod Magazine Heavy 03",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1874,7 +1874,7 @@
     },
     "Mod_Magazine_Medium_Reloadspeed_03": {
       "displayName": "Mod Magazine Medium Reloadspeed 03",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1898,7 +1898,7 @@
     },
     "Mod_Optic_8x_01": {
       "displayName": "Mod Optic 8 X 01",
-      "category": "materials",
+      "category": "mod_optic",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1906,7 +1906,7 @@
     },
     "Mod_Muzzle_Standard_Recoil_03": {
       "displayName": "Mod Muzzle Standard Recoil 03",
-      "category": "materials",
+      "category": "mod_muzzle",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1914,7 +1914,7 @@
     },
     "Mod_Stock_Standard_ADS_02": {
       "displayName": "Mod Stock Standard Ads 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1930,19 +1930,19 @@
     },
     "Mod_Korolev_Scanner_Oil": {
       "displayName": "Oil Scanner",
-      "category": "materials",
+      "category": "mod_scanner",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
-      "icon": "Unknown.png"
+      "icon": ""
     },
     "Mod_Korolev_Scanner_AlienCrystals": {
       "displayName": "Focus Crystal Scanner",
-      "category": "materials",
+      "category": "mod_scanner",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
-      "icon": "Unknown.png"
+      "icon": ""
     },
     "HydraulicPiston": {
       "displayName": "Hydraulicpiston",
@@ -1954,7 +1954,7 @@
     },
     "Mod_Tactical_Flashlight_01": {
       "displayName": "Mod Tactical Flashlight 01",
-      "category": "materials",
+      "category": "mod_other",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1962,7 +1962,7 @@
     },
     "Mod_ForeGrip_ADS_03": {
       "displayName": "Mod Foregrip Ads 03",
-      "category": "materials",
+      "category": "mod_foregrip",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1970,7 +1970,7 @@
     },
     "Mod_Converter_Light_AIDMG_01": {
       "displayName": "Mod Converter Light Aidmg 01",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1978,7 +1978,7 @@
     },
     "Mod_Stock_Marksman_ADSEquip_01": {
       "displayName": "Mod Stock Marksman Adsequip 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1986,7 +1986,7 @@
     },
     "Mod_Stock_Standard_Equip_02": {
       "displayName": "Mod Stock Standard Equip 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -1994,7 +1994,7 @@
     },
     "Mod_Converter_Shotgun_Slug_01": {
       "displayName": "Mod Converter Shotgun Slug 01",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2050,7 +2050,7 @@
     },
     "Mod_Magazine_Medium_EXTReload_01": {
       "displayName": "Mod Magazine Medium Extreload 01",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2058,7 +2058,7 @@
     },
     "Mod_Magazine_Heavy_ReloadSpeed_01": {
       "displayName": "Mod Magazine Heavy Reloadspeed 01",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2082,7 +2082,7 @@
     },
     "Mod_Magazine_Medium_Reloadspeed_04": {
       "displayName": "Mod Magazine Medium Reloadspeed 04",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2090,7 +2090,7 @@
     },
     "Mod_Converter_Shotgun_03": {
       "displayName": "Mod Converter Shotgun 03",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2098,7 +2098,7 @@
     },
     "Mod_Stock_Marksman_Equip_01": {
       "displayName": "Mod Stock Marksman Equip 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2106,7 +2106,7 @@
     },
     "Mod_Magazine_Light_ReloadSpeed_02": {
       "displayName": "Mod Magazine Light Reloadspeed 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2114,7 +2114,7 @@
     },
     "Mod_Stock_Standard_02": {
       "displayName": "Mod Stock Standard 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2138,7 +2138,7 @@
     },
     "Mod_Muzzle_Standard_Supressor_01": {
       "displayName": "Mod Muzzle Standard Supressor 01",
-      "category": "materials",
+      "category": "mod_muzzle",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2154,7 +2154,7 @@
     },
     "Mod_Stock_Marksman_Equip_02": {
       "displayName": "Mod Stock Marksman Equip 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2162,7 +2162,7 @@
     },
     "Mod_ForeGrip_ADS_02": {
       "displayName": "Mod Foregrip Ads 02",
-      "category": "materials",
+      "category": "mod_foregrip",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2178,7 +2178,7 @@
     },
     "Mod_Stock_Marksman_ADSEquip_02": {
       "displayName": "Mod Stock Marksman Adsequip 02",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2186,7 +2186,7 @@
     },
     "Mod_Stock_Marksman_ADS_01": {
       "displayName": "Mod Stock Marksman Ads 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2210,7 +2210,7 @@
     },
     "Mod_Magazine_Heavy_ReloadSpeed_04": {
       "displayName": "Mod Magazine Heavy Reloadspeed 04",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "epic",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2218,7 +2218,7 @@
     },
     "Mod_Magazine_Heavy_02": {
       "displayName": "Mod Magazine Heavy 02",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2242,7 +2242,7 @@
     },
     "Mod_Stock_Standard_Equip_01": {
       "displayName": "Mod Stock Standard Equip 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2266,7 +2266,7 @@
     },
     "Mod_Stock_Marksman_01": {
       "displayName": "Mod Stock Marksman 01",
-      "category": "materials",
+      "category": "mod_stock",
       "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2298,7 +2298,7 @@
     },
     "Mod_Converter_Light_01": {
       "displayName": "Mod Converter Light 01",
-      "category": "materials",
+      "category": "mod_converter",
       "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 0,
@@ -2306,7 +2306,7 @@
     },
     "Mod_Magazine_Light_EXTReload_01": {
       "displayName": "Mod Magazine Light Extreload 01",
-      "category": "materials",
+      "category": "mod_magazine",
       "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 0,
