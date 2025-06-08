@@ -19,7 +19,7 @@
     "Heavy": {
       "displayName": "Heavy Ammo",
       "category": "ammo",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "HeavyAmmo.png",
       "maxStackSize": 50
@@ -27,7 +27,7 @@
     "Shotgun": {
       "displayName": "Shotgun Ammo",
       "category": "ammo",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "ShotgunAmmo.png",
       "maxStackSize": 50
@@ -35,16 +35,16 @@
     "Special": {
       "displayName": "Special Ammo",
       "category": "ammo",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
       "icon": "SpecialAmmo.png",
-      "maxStackSize": 1
+      "maxStackSize": 50
     },
     "Helmet_01": {
       "displayName": "Basic Helmet",
       "category": "armor",
       "rarity": "common",
-      "maxDurability": 400,
+      "maxDurability": 500,
       "icon": "BasicHelmet.png",
       "maxStackSize": 1
     },
@@ -60,7 +60,7 @@
       "displayName": "Combat Helmet",
       "category": "armor",
       "rarity": "rare",
-      "maxDurability": 800,
+      "maxDurability": 700,
       "icon": "CombatHelmet.png",
       "maxStackSize": 1
     },
@@ -68,39 +68,39 @@
       "displayName": "Enhanced Helmet",
       "category": "armor",
       "rarity": "epic",
-      "maxDurability": 1000,
+      "maxDurability": 800,
       "icon": "EnhancedHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_05": {
       "displayName": "Superior Helmet",
       "category": "armor",
-      "rarity": "legendary",
-      "maxDurability": 1200,
+      "rarity": "exotic",
+      "maxDurability": 900,
       "icon": "EnhancedHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_Tactical_01": {
       "displayName": "Tactical Helmet I",
       "category": "armor",
-      "rarity": "uncommon",
-      "maxDurability": 650,
+      "rarity": "common",
+      "maxDurability": 500,
       "icon": "CombatHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_Tactical_02": {
       "displayName": "Tactical Helmet Ii",
       "category": "armor",
-      "rarity": "rare",
-      "maxDurability": 750,
+      "rarity": "uncommon",
+      "maxDurability": 600,
       "icon": "CombatHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_Tactical_03": {
       "displayName": "Tactical Helmet Iii",
       "category": "armor",
-      "rarity": "epic",
-      "maxDurability": 900,
+      "rarity": "rare",
+      "maxDurability": 700,
       "icon": "CombatHelmet.png",
       "maxStackSize": 1
     },
@@ -108,15 +108,15 @@
       "displayName": "Tactical Helmet Iv",
       "category": "armor",
       "rarity": "epic",
-      "maxDurability": 1100,
+      "maxDurability": 800,
       "icon": "CombatHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_Tactical_05": {
       "displayName": "Tactical Helmet V",
       "category": "armor",
-      "rarity": "legendary",
-      "maxDurability": 1300,
+      "rarity": "exotic",
+      "maxDurability": 900,
       "icon": "CombatHelmet.png",
       "maxStackSize": 1
     },
@@ -140,22 +140,22 @@
       "displayName": "Restoration Helmet Iii",
       "category": "armor",
       "rarity": "epic",
-      "maxDurability": 850,
+      "maxDurability": 800,
       "icon": "EnhancedHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_Restoration_04": {
       "displayName": "Restoration Helmet Iv",
       "category": "armor",
-      "rarity": "legendary",
-      "maxDurability": 1000,
+      "rarity": "exotic",
+      "maxDurability": 900,
       "icon": "EnhancedHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_NV_01": {
       "displayName": "Night Vision Helmet",
       "category": "armor",
-      "rarity": "epic",
+      "rarity": "legendary",
       "maxDurability": 1000,
       "icon": "NVHelmet.png",
       "maxStackSize": 1
@@ -163,15 +163,15 @@
     "Helmet_Altered_01": {
       "displayName": "Altered Helmet I",
       "category": "armor",
-      "rarity": "rare",
-      "maxDurability": 750,
+      "rarity": "epic",
+      "maxDurability": 800,
       "icon": "AlteredCombatHelmet.png",
       "maxStackSize": 1
     },
     "Helmet_Altered_02": {
       "displayName": "Altered Helmet Ii",
       "category": "armor",
-      "rarity": "epic",
+      "rarity": "exotic",
       "maxDurability": 900,
       "icon": "AlteredEnhancedHelmet.png",
       "maxStackSize": 1
@@ -180,7 +180,7 @@
       "displayName": "Altered Helmet Iii",
       "category": "armor",
       "rarity": "legendary",
-      "maxDurability": 1100,
+      "maxDurability": 1000,
       "icon": "AlteredEnhancedHelmet.png",
       "maxStackSize": 1
     },
@@ -196,7 +196,7 @@
       "displayName": "Standard Shield",
       "category": "armor",
       "rarity": "uncommon",
-      "maxDurability": 650,
+      "maxDurability": 600,
       "icon": "StandardShields.png",
       "maxStackSize": 1
     },
@@ -204,7 +204,7 @@
       "displayName": "Combat Shield",
       "category": "armor",
       "rarity": "rare",
-      "maxDurability": 800,
+      "maxDurability": 700,
       "icon": "CombatShields.png",
       "maxStackSize": 1
     },
@@ -212,15 +212,15 @@
       "displayName": "Enhanced Shield",
       "category": "armor",
       "rarity": "epic",
-      "maxDurability": 950,
+      "maxDurability": 800,
       "icon": "EnhancedShields.png",
       "maxStackSize": 1
     },
     "Shield_05": {
       "displayName": "Superior Shield",
       "category": "armor",
-      "rarity": "legendary",
-      "maxDurability": 1200,
+      "rarity": "exotic",
+      "maxDurability": 900,
       "icon": "EnhancedShields.png",
       "maxStackSize": 1
     },
@@ -228,7 +228,7 @@
       "displayName": "Restoration Shield I",
       "category": "armor",
       "rarity": "uncommon",
-      "maxDurability": 650,
+      "maxDurability": 600,
       "icon": "EnhancedShields.png",
       "maxStackSize": 1
     },
@@ -236,7 +236,7 @@
       "displayName": "Restoration Shield Ii",
       "category": "armor",
       "rarity": "rare",
-      "maxDurability": 800,
+      "maxDurability": 700,
       "icon": "EnhancedShields.png",
       "maxStackSize": 1
     },
@@ -244,7 +244,7 @@
       "displayName": "Restoration Shield Iii",
       "category": "armor",
       "rarity": "epic",
-      "maxDurability": 950,
+      "maxDurability": 800,
       "icon": "EnhancedShields.png",
       "maxStackSize": 1
     },
@@ -259,7 +259,7 @@
     "Shield_Altered_01": {
       "displayName": "Altered Shield I",
       "category": "armor",
-      "rarity": "rare",
+      "rarity": "epic",
       "maxDurability": 800,
       "icon": "AlteredShields.png",
       "maxStackSize": 1
@@ -267,8 +267,8 @@
     "Shield_Altered_02": {
       "displayName": "Altered Shield Ii",
       "category": "armor",
-      "rarity": "epic",
-      "maxDurability": 950,
+      "rarity": "exotic",
+      "maxDurability": 900,
       "icon": "AlteredShields.png",
       "maxStackSize": 1
     },
@@ -276,7 +276,7 @@
       "displayName": "Altered Shield Iii",
       "category": "armor",
       "rarity": "legendary",
-      "maxDurability": 1200,
+      "maxDurability": 1000,
       "icon": "AlteredShields.png",
       "maxStackSize": 1
     },
@@ -323,7 +323,7 @@
     "Bag_05": {
       "displayName": "Military Backpack",
       "category": "armor",
-      "rarity": "legendary",
+      "rarity": "exotic",
       "maxDurability": -1,
       "icon": "HeavyDutyBackpack.png",
       "maxStackSize": 1
@@ -331,7 +331,7 @@
     "Bag_Altered_01": {
       "displayName": "Altered Backpack I",
       "category": "armor",
-      "rarity": "rare",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "AlteredBackpack.png",
       "maxStackSize": 1
@@ -339,7 +339,7 @@
     "Bag_Altered_02": {
       "displayName": "Altered Backpack Ii",
       "category": "armor",
-      "rarity": "epic",
+      "rarity": "exotic",
       "maxDurability": -1,
       "icon": "AlteredBackpack.png",
       "maxStackSize": 1
@@ -435,10 +435,10 @@
     "Mod_Korolev_Scanner_Veltecite": {
       "displayName": "Veltecite Scanner",
       "category": "attachments",
-      "rarity": "uncommon",
+      "rarity": "common",
       "maxDurability": -1,
       "icon": "VelteciteScanningModule.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Optic_1x_01": {
       "displayName": "1X Optic",
@@ -446,15 +446,15 @@
       "rarity": "common",
       "maxDurability": -1,
       "icon": "1xOptic.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Optic_2x_01": {
       "displayName": "2X Optic",
       "category": "attachments",
-      "rarity": "uncommon",
+      "rarity": "common",
       "maxDurability": -1,
       "icon": "2xOptic.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Optic_4x_01": {
       "displayName": "4X Optic",
@@ -462,7 +462,7 @@
       "rarity": "rare",
       "maxDurability": -1,
       "icon": "4xOptic.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Optic_Variable_01": {
       "displayName": "Variable Optic",
@@ -470,63 +470,63 @@
       "rarity": "epic",
       "maxDurability": -1,
       "icon": "2-4xVariableOptic.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Magazine_Light_01": {
       "displayName": "Light Magazine I",
       "category": "attachments",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "LightExtended.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Magazine_Light_02": {
       "displayName": "Light Magazine Ii",
       "category": "attachments",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "maxDurability": -1,
       "icon": "LightExtended.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Magazine_Light_03": {
       "displayName": "Light Extended Magazine",
       "category": "attachments",
-      "rarity": "rare",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "LightExtended.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Magazine_Medium_01": {
       "displayName": "Medium Magazine I",
       "category": "attachments",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "MediumExtended.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Magazine_Heavy_01": {
       "displayName": "Heavy Magazine I",
       "category": "attachments",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "HeavyExtended.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Magazine_Shotgun_01": {
       "displayName": "Shotgun Magazine I",
       "category": "attachments",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "ShotgunExtended.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Muzzle_Small_Supressor_01": {
       "displayName": "Small Suppressor",
       "category": "attachments",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "maxDurability": -1,
       "icon": "SmallSuppressor.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_RearGrip_ADS_02": {
       "displayName": "Ads Rear Grip",
@@ -534,15 +534,15 @@
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "TacticalRearGrip.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Converter_Light_AIDMG_03": {
       "displayName": "Light Ai Damage Converter",
       "category": "attachments",
-      "rarity": "rare",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "LightConverter.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Consumable_Health_01": {
       "displayName": "Weak Stim",
@@ -555,15 +555,15 @@
     "Consumable_Health_02": {
       "displayName": "Weak Medkit",
       "category": "consumables",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 2,
+      "maxStackSize": 5,
       "icon": "WeakMedkit.png"
     },
     "Consumable_Health_03": {
       "displayName": "Strong Medkit",
       "category": "consumables",
-      "rarity": "uncommon",
+      "rarity": "common",
       "maxDurability": -1,
       "maxStackSize": 2,
       "icon": "StrongMedkit.png"
@@ -571,7 +571,7 @@
     "Consumable_Health_04": {
       "displayName": "Strong Stim",
       "category": "consumables",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "maxDurability": -1,
       "maxStackSize": 5,
       "icon": "StrongStim.png"
@@ -579,7 +579,7 @@
     "Consumable_Health_05": {
       "displayName": "Combat Medkit",
       "category": "consumables",
-      "rarity": "rare",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 2,
       "icon": "CombatMedkit.png"
@@ -589,15 +589,15 @@
       "category": "consumables",
       "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 5,
+      "maxStackSize": 2,
       "icon": "CombatStim.png"
     },
     "Consumable_SmokeGrenade_01": {
       "displayName": "Smoke Grenade",
       "category": "consumables",
-      "rarity": "uncommon",
+      "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 5,
+      "maxStackSize": 4,
       "icon": "SmokeGrenade.png"
     },
     "Consumable_GasGrenade_01": {
@@ -605,7 +605,7 @@
       "category": "consumables",
       "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 5,
+      "maxStackSize": 4,
       "icon": "GasGrenade.png"
     },
     "ConsumableAudioDecoy_01": {
@@ -622,7 +622,7 @@
       "rarity": "common",
       "maxDurability": -1,
       "icon": "StandardGrenade.png",
-      "maxStackSize": 5
+      "maxStackSize": 4
     },
     "ShockGrenade_02": {
       "displayName": "Light Grenade",
@@ -630,7 +630,7 @@
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "StandardGrenade.png",
-      "maxStackSize": 5
+      "maxStackSize": 4
     },
     "ShockGrenade_03": {
       "displayName": "Standard Grenade",
@@ -638,15 +638,15 @@
       "rarity": "rare",
       "maxDurability": -1,
       "icon": "StandardGrenade.png",
-      "maxStackSize": 5
+      "maxStackSize": 4
     },
     "ShockGrenade_04": {
       "displayName": "Assault Grenade",
       "category": "consumables",
-      "rarity": "exotic",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "StandardGrenade.png",
-      "maxStackSize": 5
+      "maxStackSize": 4
     },
     "CommonVeltecite": {
       "displayName": "Common Veltecite",
@@ -654,7 +654,7 @@
       "rarity": "common",
       "maxDurability": -1,
       "icon": "CloudyVeltecite.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "UncommonVelticite": {
       "displayName": "Uncommon Veltecite",
@@ -662,7 +662,7 @@
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "FlawedVeltecite.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "RareVeltecite": {
       "displayName": "Rare Veltecite",
@@ -670,7 +670,7 @@
       "rarity": "rare",
       "maxDurability": -1,
       "icon": "ClearVeltecite.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "EpicVeltecite": {
       "displayName": "Epic Veltecite",
@@ -678,7 +678,7 @@
       "rarity": "epic",
       "maxDurability": -1,
       "icon": "PureVeltecite.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "VelteciteHeart": {
       "displayName": "Veltecite Heart",
@@ -686,23 +686,23 @@
       "rarity": "legendary",
       "maxDurability": -1,
       "icon": "VelteciteHeart.png",
-      "maxStackSize": 20
+      "maxStackSize": 3
     },
     "FocusCrystal": {
       "displayName": "Focus Crystal",
       "category": "materials",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "maxDurability": -1,
       "icon": "FocusCrystal.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "PureFocusCrystal": {
       "displayName": "Pure Focus Crystal",
       "category": "materials",
-      "rarity": "rare",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "PureFocusCrystal.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "Nickel": {
       "displayName": "Nickel",
@@ -710,7 +710,7 @@
       "rarity": "common",
       "maxDurability": -1,
       "icon": "Nickel.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "PureNickel": {
       "displayName": "Altered Nickel",
@@ -718,7 +718,7 @@
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "AlteredNickel.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "BrightSands": {
       "displayName": "Bright Sands",
@@ -747,7 +747,7 @@
     "KorolevScrip": {
       "displayName": "Korolev Scrip",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "KorolevScrip.png",
       "maxStackSize": 10000
@@ -755,7 +755,7 @@
     "ICAScrip": {
       "displayName": "Ica Scrip",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "ICAScrip.png",
       "maxStackSize": 10000
@@ -771,26 +771,26 @@
     "QuestItem_OilPumpBeacon": {
       "displayName": "Oil Pump Beacon",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "OilPumpBeacon.png",
-      "maxStackSize": 20
+      "maxStackSize": 3
     },
     "QuestItem_OrbitalCanonTargetBeacon": {
       "displayName": "Orbital Canon Target Beacon",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "OrbitalCannonBeacon.png",
-      "maxStackSize": 20
+      "maxStackSize": 3
     },
     "QuestItem_LaserDrillBeacon": {
       "displayName": "Laser Drill Beacon",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "LaserDrillBeacon.png",
-      "maxStackSize": 20
+      "maxStackSize": 3
     },
     "Map01_KeyCard_01": {
       "displayName": "Bright Sands Keycard 01",
@@ -798,55 +798,55 @@
       "rarity": "uncommon",
       "maxDurability": 15,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map01_KeyCard_02": {
       "displayName": "Bright Sands Keycard 02",
       "category": "materials",
       "rarity": "uncommon",
-      "maxDurability": 15,
+      "maxDurability": 8,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map01_KeyCard_03": {
       "displayName": "Bright Sands Keycard 03",
       "category": "materials",
-      "rarity": "uncommon",
+      "rarity": "common",
       "maxDurability": 15,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map01_KeyCard_04": {
       "displayName": "Bright Sands Keycard 04",
       "category": "materials",
-      "rarity": "rare",
-      "maxDurability": 15,
+      "rarity": "uncommon",
+      "maxDurability": 10,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map01_KeyCard_05": {
       "displayName": "Bright Sands Keycard 05",
       "category": "materials",
-      "rarity": "rare",
-      "maxDurability": 15,
+      "rarity": "common",
+      "maxDurability": 8,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map01_KeyCard_06": {
       "displayName": "Bright Sands Keycard 06",
       "category": "materials",
-      "rarity": "epic",
-      "maxDurability": 15,
+      "rarity": "rare",
+      "maxDurability": 12,
       "icon": "KeyCardYellow.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map01_KeyCard_07": {
       "displayName": "Bright Sands Keycard 07",
       "category": "materials",
-      "rarity": "epic",
-      "maxDurability": 15,
+      "rarity": "rare",
+      "maxDurability": 5,
       "icon": "KeyCardYellow.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map01_KeyCard_08": {
       "displayName": "Bright Sands Keycard 08",
@@ -859,98 +859,98 @@
     "Map02_KeyCard_01": {
       "displayName": "Crescent Falls Keycard 01",
       "category": "materials",
-      "rarity": "uncommon",
-      "maxDurability": 15,
+      "rarity": "epic",
+      "maxDurability": 5,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_02": {
       "displayName": "Crescent Falls Keycard 02",
       "category": "materials",
-      "rarity": "uncommon",
-      "maxDurability": 15,
+      "rarity": "common",
+      "maxDurability": 20,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_03": {
       "displayName": "Crescent Falls Keycard 03",
       "category": "materials",
-      "rarity": "uncommon",
-      "maxDurability": 15,
+      "rarity": "rare",
+      "maxDurability": 8,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_04": {
       "displayName": "Crescent Falls Keycard 04",
       "category": "materials",
-      "rarity": "rare",
-      "maxDurability": 15,
+      "rarity": "uncommon",
+      "maxDurability": 10,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_05": {
       "displayName": "Crescent Falls Keycard 05",
       "category": "materials",
-      "rarity": "rare",
+      "rarity": "common",
       "maxDurability": 15,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_06": {
       "displayName": "Crescent Falls Keycard 06",
       "category": "materials",
       "rarity": "epic",
-      "maxDurability": 15,
+      "maxDurability": 5,
       "icon": "KeyCardYellow.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_07": {
       "displayName": "Crescent Falls Keycard 07",
       "category": "materials",
       "rarity": "epic",
-      "maxDurability": 15,
+      "maxDurability": 10,
       "icon": "KeyCardYellow.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_08": {
       "displayName": "Crescent Falls Keycard 08",
       "category": "materials",
-      "rarity": "legendary",
-      "maxDurability": 15,
+      "rarity": "epic",
+      "maxDurability": 5,
       "icon": "KeyCardYellow.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map02_KeyCard_09": {
       "displayName": "Crescent Falls Keycard 09",
       "category": "materials",
-      "rarity": "legendary",
-      "maxDurability": 15,
+      "rarity": "epic",
+      "maxDurability": 5,
       "icon": "KeyCardYellow.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map03_KeyCard_01": {
       "displayName": "Tharis Island Keycard 01",
       "category": "materials",
-      "rarity": "uncommon",
-      "maxDurability": 15,
+      "rarity": "epic",
+      "maxDurability": 8,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map03_KeyCard_02": {
       "displayName": "Tharis Island Keycard 02",
       "category": "materials",
-      "rarity": "uncommon",
-      "maxDurability": 15,
+      "rarity": "epic",
+      "maxDurability": 5,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map03_KeyCard_03": {
       "displayName": "Tharis Island Keycard 03",
       "category": "materials",
-      "rarity": "uncommon",
-      "maxDurability": 15,
+      "rarity": "epic",
+      "maxDurability": 5,
       "icon": "KeyCardBlue.png",
-      "maxStackSize": 20
+      "maxStackSize": 1
     },
     "Map03_KeyCard_04": {
       "displayName": "Tharis Island Keycard 04",
@@ -998,7 +998,7 @@
       "rarity": "rare",
       "maxDurability": -1,
       "icon": "TitanOre.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "BrittleTitanOre": {
       "displayName": "Brittle Titan Ore",
@@ -1006,7 +1006,7 @@
       "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "BrittleTitanOre.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "Letium": {
       "displayName": "Letium",
@@ -1014,15 +1014,15 @@
       "rarity": "epic",
       "maxDurability": -1,
       "icon": "Letium.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "PrintResin": {
       "displayName": "Print Resin",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "icon": "PrintResin.png",
-      "maxStackSize": 20
+      "maxStackSize": 10
     },
     "Polymetallic": {
       "displayName": "Polymetallic Prefabricate",
@@ -1051,7 +1051,7 @@
     "MeteorFragment": {
       "displayName": "Meteor Fragment",
       "category": "materials",
-      "rarity": "uncommon",
+      "rarity": "rare",
       "maxDurability": -1,
       "icon": "MeteorFragment.png",
       "maxStackSize": 10
@@ -1059,10 +1059,10 @@
     "MeteorCore": {
       "displayName": "Meteor Core",
       "category": "materials",
-      "rarity": "rare",
+      "rarity": "epic",
       "maxDurability": -1,
       "icon": "MeteorCore.png",
-      "maxStackSize": 10
+      "maxStackSize": 3
     },
     "AlteredMeteorFragment": {
       "displayName": "Altered Meteor Fragment",
@@ -1092,48 +1092,48 @@
       "displayName": "Heavy Mining Tool",
       "category": "tools",
       "rarity": "common",
-      "maxDurability": 800,
+      "maxDurability": -1,
       "icon": "HeavyMiningTool.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "TOOL_MineralScanner_01": {
       "displayName": "Mineral Scanner",
       "category": "tools",
       "rarity": "common",
-      "maxDurability": 600,
+      "maxDurability": -1,
       "icon": "Scanner.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "TOOL_Flashlight_01": {
       "displayName": "Flashlight",
       "category": "tools",
       "rarity": "common",
-      "maxDurability": 400,
+      "maxDurability": -1,
       "icon": "Flashlight.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "TOOL_Binocular_Basic_01": {
       "displayName": "Binoculars",
       "category": "tools",
       "rarity": "common",
-      "maxDurability": 500,
+      "maxDurability": -1,
       "icon": "Binoculars.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "Mod_Muzzle_Standard_Recoil_01": {
       "displayName": "Mod Muzzle Standard Recoil 01",
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Muzzle_Standard_Recoil_01.png"
     },
     "Mod_Magazine_Shotgun_03": {
       "displayName": "Mod Magazine Shotgun 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Shotgun_03.png"
     },
     "Mod_Muzzle_Small_Recoil_01": {
@@ -1141,47 +1141,47 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Muzzle_Small_Recoil_01.png"
     },
     "ChargedForgeIronIngot": {
       "displayName": "Chargedforgeironingot",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "exotic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 6,
       "icon": "ChargedForgeIronIngot.png"
     },
     "AnaestheticsContainers": {
       "displayName": "Anaestheticscontainers",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AnaestheticsContainers.png"
     },
     "Mod_Magazine_Shotgun_02": {
       "displayName": "Mod Magazine Shotgun 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Shotgun_02.png"
     },
     "Mod_RearGrip_02": {
       "displayName": "Mod Reargrip 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_RearGrip_02.png"
     },
     "Mod_Converter_Shotgun_01": {
       "displayName": "Mod Converter Shotgun 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Shotgun_01.png"
     },
     "Mod_RearGrip_01": {
@@ -1189,63 +1189,63 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_RearGrip_01.png"
     },
     "AI_StriderMeat": {
       "displayName": "Stridermeat",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AI_StriderMeat.png"
     },
     "Mod_ForeGrip_ADS_01": {
       "displayName": "Mod Foregrip Ads 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_ForeGrip_ADS_01.png"
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_02": {
       "displayName": "Mod Magazine Shotgun Reloadspeed 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Shotgun_ReloadSpeed_02.png"
     },
     "Mod_Converter_Light_AIDMG_02": {
       "displayName": "Mod Converter Light Aidmg 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Light_AIDMG_02.png"
     },
     "Mod_Converter_Heavy_02": {
       "displayName": "Mod Converter Heavy 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Heavy_02.png"
     },
     "HardDrive_uncommon": {
       "displayName": "Uncommon Harddrive",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 1,
       "icon": "HardDrive_uncommon.png"
     },
     "AlphaWardenHeart": {
       "displayName": "Alphawardenheart",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "exotic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 1,
       "icon": "AlphaWardenHeart.png"
     },
     "NeuroToxicGlands": {
@@ -1253,7 +1253,7 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "NeuroToxicGlands.png"
     },
     "Mod_RearGrip_ADS_01": {
@@ -1261,15 +1261,15 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_RearGrip_ADS_01.png"
     },
     "AutoLoader": {
       "displayName": "Autoloader",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AutoLoader.png"
     },
     "CompoundSheets": {
@@ -1277,15 +1277,15 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "CompoundSheets.png"
     },
     "AI_StriderHead": {
       "displayName": "Striderhead",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 5,
       "icon": "AI_StriderHead.png"
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_01": {
@@ -1293,15 +1293,15 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Shotgun_ReloadSpeed_01.png"
     },
     "Mod_Stock_Standard_ADSEquip_02": {
       "displayName": "Mod Stock Standard Adsequip 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Standard_ADSEquip_02.png"
     },
     "Mod__Stock_Standard_ADSEquip_01": {
@@ -1317,31 +1317,31 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AI_RattlerSkin.png"
     },
     "Mod_Converter_Medium_02": {
       "displayName": "Mod Converter Medium 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Medium_02.png"
     },
     "SmartMesh": {
       "displayName": "Smartmesh",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "SmartMesh.png"
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_03": {
       "displayName": "Mod Magazine Shotgun Reloadspeed 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Shotgun_ReloadSpeed_03.png"
     },
     "HardDrive_common": {
@@ -1349,7 +1349,7 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 1,
       "icon": "HardDrive_common.png"
     },
     "Mod_MagazineMedium_Reloadspeed_01": {
@@ -1363,169 +1363,169 @@
     "AI_RattlerHead": {
       "displayName": "Ai Rattlerhead",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 5,
       "icon": "AI_RattlerHead.png"
     },
     "Mod_Magazine_Shotgun_ReloadSpeed_04": {
       "displayName": "Mod Magazine Shotgun Reloadspeed 04",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Shotgun_ReloadSpeed_04.png"
     },
     "AI_CrusherMeat": {
       "displayName": "Ai Crushermeat",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AI_CrusherMeat.png"
     },
     "Mod_Magazine_Light_ReloadSpeed_03": {
       "displayName": "Mod Magazine Light Reloadspeed 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Light_ReloadSpeed_03.png"
     },
     "Mod_Magazine_Heavy_ReloadSpeed_02": {
       "displayName": "Mod Magazine Heavy Reloadspeed 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Heavy_ReloadSpeed_02.png"
     },
     "Mod_Muzzle_Small_Recoil_03": {
       "displayName": "Mod Muzzle Small Recoil 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Muzzle_Small_Recoil_03.png"
     },
     "Jewellery": {
       "displayName": "Jewellery",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Jewellery.png"
     },
     "Mod_Stock_Standard_ADS_01": {
       "displayName": "Mod Stock Standard Ads 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Standard_ADS_01.png"
     },
     "Mod_ForeGrip_Angled_02": {
       "displayName": "Mod Foregrip Angled 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_ForeGrip_Angled_02.png"
     },
     "Mod_ForeGrip_Equip_02": {
       "displayName": "Mod Foregrip Equip 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_ForeGrip_Equip_02.png"
     },
     "AF_Slag": {
       "displayName": "Af Slag",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "exotic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 3,
       "icon": "AF_Slag.png"
     },
     "Mod_Converter_Medium_AIDMG_03": {
       "displayName": "Mod Converter Medium Aidmg 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Medium_AIDMG_03.png"
     },
     "AI_CrusherHead": {
       "displayName": "Ai Crusherhead",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 5,
       "icon": "AI_CrusherHead.png"
     },
     "Mod_Muzzle_Small_Recoil_02": {
       "displayName": "Mod Muzzle Small Recoil 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Muzzle_Small_Recoil_02.png"
     },
     "Mod_Magazine_Medium_02": {
       "displayName": "Mod Magazine Medium 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Medium_02.png"
     },
     "Mod_Optic_1x_02": {
       "displayName": "Mod Optic 1 X 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Optic_1x_02.png"
     },
     "Mod_Converter_Medium_01": {
       "displayName": "Mod Converter Medium 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Medium_01.png"
     },
     "ForgeIronIngot": {
       "displayName": "Forgeironingot",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 6,
       "icon": "ForgeIronIngot.png"
     },
     "Mod_Converter_Shotgun_02": {
       "displayName": "Mod Converter Shotgun 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Shotgun_02.png"
     },
     "Biomass": {
       "displayName": "Biomass",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Biomass.png"
     },
     "HardDrive_legendary": {
       "displayName": "Harddrive Legendary",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 1,
       "icon": "HardDrive_legendary.png"
     },
     "GenericCreatureDrop": {
@@ -1533,47 +1533,47 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "GenericCreatureDrop.png"
     },
     "AI_WeremoleHead": {
       "displayName": "Ai Weremolehead",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 5,
       "icon": "AI_WeremoleHead.png"
     },
     "Adhesive": {
       "displayName": "Adhesive",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Adhesive.png"
     },
     "MagneticFieldStabilizer": {
       "displayName": "Magneticfieldstabilizer",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "MagneticFieldStabilizer.png"
     },
     "AI_RattlerEyes": {
       "displayName": "Ai Rattlereyes",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AI_RattlerEyes.png"
     },
     "BlueRunnerEgg": {
       "displayName": "Bluerunneregg",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "BlueRunnerEgg.png"
     },
     "Mod_Stock_Standard_01": {
@@ -1581,7 +1581,7 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Standard_01.png"
     },
     "Insulation": {
@@ -1589,39 +1589,39 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Insulation.png"
     },
     "Mod_Converter_Medium_AIDMG_02": {
       "displayName": "Mod Converter Medium Aidmg 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Medium_AIDMG_02.png"
     },
     "BrightcapMushroom": {
       "displayName": "Brightcapmushroom",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "BrightcapMushroom.png"
     },
     "Mod_Magazine_Medium_Reloadspeed_02": {
       "displayName": "Mod Magazine Medium Reloadspeed 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Medium_Reloadspeed_02.png"
     },
     "AI_CrusherSkin": {
       "displayName": "Ai Crusherskin",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AI_CrusherSkin.png"
     },
     "Antibiotics": {
@@ -1629,39 +1629,39 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Antibiotics.png"
     },
     "OpticGlass": {
       "displayName": "Opticglass",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "OpticGlass.png"
     },
     "MiniatureReactor": {
       "displayName": "Miniaturereactor",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "MiniatureReactor.png"
     },
     "Mod_Optic_6x_01": {
       "displayName": "Mod Optic 6 X 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Optic_6x_01.png"
     },
     "Mod_Magazine_Medium_03": {
       "displayName": "Mod Magazine Medium 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Medium_03.png"
     },
     "ProteinBar": {
@@ -1669,127 +1669,127 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "ProteinBar.png"
     },
     "Mod_Stock_Marksman_ADS_02": {
       "displayName": "Mod Stock Marksman Ads 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_ADS_02.png"
     },
     "Mod_Muzzle_Standard_Recoil_02": {
       "displayName": "Mod Muzzle Standard Recoil 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Muzzle_Standard_Recoil_02.png"
     },
     "RadioSpareParts": {
       "displayName": "Radiospareparts",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "RadioSpareParts.png"
     },
     "AF_Token": {
       "displayName": "Af Token",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 5,
       "icon": "AF_Token.png"
     },
     "PureForgeIron": {
       "displayName": "Pureforgeiron",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "PureForgeIron.png"
     },
     "Mod_Magazine_Light_EXTReload_02": {
       "displayName": "Mod Magazine Light Extreload 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Light_EXTReload_02.png"
     },
     "Mod_Converter_Heavy_01": {
       "displayName": "Mod Converter Heavy 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Heavy_01.png"
     },
     "ShockAbsorber": {
       "displayName": "Shockabsorber",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "ShockAbsorber.png"
     },
     "Mod_Magazine_Heavy_ReloadSpeed_03": {
       "displayName": "Mod Magazine Heavy Reloadspeed 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Heavy_ReloadSpeed_03.png"
     },
     "AI_WeremoleMeat": {
       "displayName": "Ai Weremolemeat",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AI_WeremoleMeat.png"
     },
     "Mod_Magazine_Light_ReloadSpeed_04": {
       "displayName": "Mod Magazine Light Reloadspeed 04",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Light_ReloadSpeed_04.png"
     },
     "SamplingDevice": {
       "displayName": "Samplingdevice",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "SamplingDevice.png"
     },
     "Mod_Converter_Medium_AIDMG_01": {
       "displayName": "Mod Converter Medium Aidmg 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Medium_AIDMG_01.png"
     },
     "Mod_Stock_Marksman_02": {
       "displayName": "Mod Stock Marksman 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_02.png"
     },
     "BallBearings": {
       "displayName": "Ballbearings",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "BallBearings.png"
     },
     "OldCurrency": {
@@ -1803,17 +1803,17 @@
     "Mod_Converter_Light_03": {
       "displayName": "Mod Converter Light 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Light_03.png"
     },
     "Mod_Converter_Medium_03": {
       "displayName": "Mod Converter Medium 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Medium_03.png"
     },
     "PolymetallicPrefabricate": {
@@ -1821,15 +1821,15 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "PolymetallicPrefabricate.png"
     },
     "Mod_Converter_Heavy_03": {
       "displayName": "Mod Converter Heavy 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Heavy_03.png"
     },
     "Mod_ForeGrip_Angled_01": {
@@ -1837,15 +1837,15 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_ForeGrip_Angled_01.png"
     },
     "Mod_Converter_Light_02": {
       "displayName": "Mod Converter Light 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Light_02.png"
     },
     "Mod_ForeGrip_Equip_01": {
@@ -1853,7 +1853,7 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_ForeGrip_Equip_01.png"
     },
     "Mod_Magazine_Light_ReloadSpeed_01": {
@@ -1861,23 +1861,23 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Light_ReloadSpeed_01.png"
     },
     "Mod_Magazine_Heavy_03": {
       "displayName": "Mod Magazine Heavy 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Heavy_03.png"
     },
     "Mod_Magazine_Medium_Reloadspeed_03": {
       "displayName": "Mod Magazine Medium Reloadspeed 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Medium_Reloadspeed_03.png"
     },
     "AluminumParts": {
@@ -1885,39 +1885,39 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "AluminumParts.png"
     },
     "PortableLabEquipmentBox": {
       "displayName": "Portablelabequipmentbox",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "PortableLabEquipmentBox.png"
     },
     "Mod_Optic_8x_01": {
       "displayName": "Mod Optic 8 X 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Optic_8x_01.png"
     },
     "Mod_Muzzle_Standard_Recoil_03": {
       "displayName": "Mod Muzzle Standard Recoil 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Muzzle_Standard_Recoil_03.png"
     },
     "Mod_Stock_Standard_ADS_02": {
       "displayName": "Mod Stock Standard Ads 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Standard_ADS_02.png"
     },
     "Battery": {
@@ -1925,31 +1925,31 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Battery.png"
     },
     "Mod_Korolev_Scanner_Oil": {
       "displayName": "Oil Scanner",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Korolev_Scanner_Oil.png"
     },
     "Mod_Korolev_Scanner_AlienCrystals": {
       "displayName": "Focus Crystal Scanner",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Korolev_Scanner_AlienCrystals.png"
     },
     "HydraulicPiston": {
       "displayName": "Hydraulicpiston",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "HydraulicPiston.png"
     },
     "Mod_Tactical_Flashlight_01": {
@@ -1957,53 +1957,53 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Tactical_Flashlight_01.png"
     },
     "Mod_ForeGrip_ADS_03": {
       "displayName": "Mod Foregrip Ads 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_ForeGrip_ADS_03.png"
     },
     "Mod_Converter_Light_AIDMG_01": {
       "displayName": "Mod Converter Light Aidmg 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Light_AIDMG_01.png"
     },
     "Mod_Stock_Marksman_ADSEquip_01": {
       "displayName": "Mod Stock Marksman Adsequip 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_ADSEquip_01.png"
     },
     "Mod_Stock_Standard_Equip_02": {
       "displayName": "Mod Stock Standard Equip 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Standard_Equip_02.png"
     },
     "Mod_Converter_Shotgun_Slug_01": {
       "displayName": "Mod Converter Shotgun Slug 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Shotgun_Slug_01.png"
     },
     "OsirisScrip": {
       "displayName": "Osirisscrip",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
       "maxStackSize": 10000,
       "icon": "OsirisScrip.png"
@@ -2013,23 +2013,23 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "StormyCreatureDrop.png"
     },
     "ForgeIron": {
       "displayName": "Forgeiron",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "ForgeIron.png"
     },
     "DerelictExplosives": {
       "displayName": "Derelict Explosives",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "DerelictExplosives.png"
     },
     "CopperWire": {
@@ -2037,23 +2037,23 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "CopperWire.png"
     },
     "CircuitBoard": {
       "displayName": "Circuitboard",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "CircuitBoard.png"
     },
     "Mod_Magazine_Medium_EXTReload_01": {
       "displayName": "Mod Magazine Medium Extreload 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Medium_EXTReload_01.png"
     },
     "Mod_Magazine_Heavy_ReloadSpeed_01": {
@@ -2061,39 +2061,39 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Heavy_ReloadSpeed_01.png"
     },
     "ShardSlicer": {
       "displayName": "Shard Slicer",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "ShardSlicer.png"
     },
     "OilTank": {
       "displayName": "Oiltank",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "OilTank.png"
     },
     "Mod_Magazine_Medium_Reloadspeed_04": {
       "displayName": "Mod Magazine Medium Reloadspeed 04",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Medium_Reloadspeed_04.png"
     },
     "Mod_Converter_Shotgun_03": {
       "displayName": "Mod Converter Shotgun 03",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Shotgun_03.png"
     },
     "Mod_Stock_Marksman_Equip_01": {
@@ -2101,47 +2101,47 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_Equip_01.png"
     },
     "Mod_Magazine_Light_ReloadSpeed_02": {
       "displayName": "Mod Magazine Light Reloadspeed 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Light_ReloadSpeed_02.png"
     },
     "Mod_Stock_Standard_02": {
       "displayName": "Mod Stock Standard 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Standard_02.png"
     },
     "LiquidFertilizer": {
       "displayName": "Liquidfertilizer",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "LiquidFertilizer.png"
     },
     "GlowingCrystalCoreShard": {
       "displayName": "Glowingcrystalcoreshard",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "GlowingCrystalCoreShard.png"
     },
     "Mod_Muzzle_Standard_Supressor_01": {
       "displayName": "Mod Muzzle Standard Supressor 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Muzzle_Standard_Supressor_01.png"
     },
     "Alien_Scrap": {
@@ -2149,23 +2149,23 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Alien_Scrap.png"
     },
     "Mod_Stock_Marksman_Equip_02": {
       "displayName": "Mod Stock Marksman Equip 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_Equip_02.png"
     },
     "Mod_ForeGrip_ADS_02": {
       "displayName": "Mod Foregrip Ads 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_ForeGrip_ADS_02.png"
     },
     "Fabrics": {
@@ -2173,71 +2173,71 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Fabrics.png"
     },
     "Mod_Stock_Marksman_ADSEquip_02": {
       "displayName": "Mod Stock Marksman Adsequip 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_ADSEquip_02.png"
     },
     "Mod_Stock_Marksman_ADS_01": {
       "displayName": "Mod Stock Marksman Ads 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_ADS_01.png"
     },
     "TentaclePlant": {
       "displayName": "Tentacleplant",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "TentaclePlant.png"
     },
     "Gyroscope": {
       "displayName": "Gyroscope",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Gyroscope.png"
     },
     "Mod_Magazine_Heavy_ReloadSpeed_04": {
       "displayName": "Mod Magazine Heavy Reloadspeed 04",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Heavy_ReloadSpeed_04.png"
     },
     "Mod_Magazine_Heavy_02": {
       "displayName": "Mod Magazine Heavy 02",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Heavy_02.png"
     },
     "SampleContainer": {
       "displayName": "Samplecontainer",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "SampleContainer.png"
     },
     "SuperChargedForgeIronIngot": {
       "displayName": "Superchargedforgeironingot",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 6,
       "icon": "SuperChargedForgeIronIngot.png"
     },
     "Mod_Stock_Standard_Equip_01": {
@@ -2245,7 +2245,7 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Standard_Equip_01.png"
     },
     "Cables": {
@@ -2253,15 +2253,15 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "Cables.png"
     },
     "HardenedBoneAlloy": {
       "displayName": "Hardenedbonealloy",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 10,
       "icon": "HardenedBoneAlloy.png"
     },
     "Mod_Stock_Marksman_01": {
@@ -2269,152 +2269,152 @@
       "category": "materials",
       "rarity": "common",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Stock_Marksman_01.png"
     },
     "HardDrive_epic": {
       "displayName": "Epic Harddrive",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "epic",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 1,
       "icon": "HardDrive_epic.png"
     },
     "HardDrive_rare": {
       "displayName": "Rare Harddrive",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 1,
       "icon": "HardDrive_rare.png"
     },
     "AlphaCrusherSkull": {
       "displayName": "Alpha Crusher Skull",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "legendary",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 1,
       "icon": "AlphaCrusherSkull.png"
     },
     "Mod_Converter_Light_01": {
       "displayName": "Mod Converter Light 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "uncommon",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Converter_Light_01.png"
     },
     "Mod_Magazine_Light_EXTReload_01": {
       "displayName": "Mod Magazine Light Extreload 01",
       "category": "materials",
-      "rarity": "common",
+      "rarity": "rare",
       "maxDurability": -1,
-      "maxStackSize": 20,
+      "maxStackSize": 0,
       "icon": "Mod_Magazine_Light_EXTReload_01.png"
     },
     "WP_D_Pistol_Bullet_01": {
       "displayName": "Bulldog Pistol",
       "category": "weapons",
       "rarity": "uncommon",
-      "maxDurability": 1000,
+      "maxDurability": -1,
       "icon": "Bulldog.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_G_Pistol_Energy_01": {
       "displayName": "Scarab",
       "category": "weapons",
       "rarity": "uncommon",
-      "maxDurability": 1100,
+      "maxDurability": -1,
       "icon": "Scarab.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_G_AR_Needle_01": {
       "displayName": "Manticore",
       "category": "weapons",
       "rarity": "uncommon",
-      "maxDurability": 1000,
+      "maxDurability": -1,
       "icon": "Manticore.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_A_SMG_Shard_01": {
       "displayName": "KM-9 Scrapper",
       "category": "weapons",
       "rarity": "uncommon",
-      "maxDurability": 1000,
+      "maxDurability": -1,
       "icon": "KM-9Scrapper.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_Pistol_Bullet_01": {
       "displayName": "K-28",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 800,
+      "maxDurability": -1,
       "icon": "K-28.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_SGun_Bullet_01": {
       "displayName": "B9 Trenchgun",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 800,
+      "maxDurability": -1,
       "icon": "B9Trenchgun.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_SMG_Bullet_01": {
       "displayName": "S-576 PDW",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 900,
+      "maxDurability": -1,
       "icon": "S-576PDW.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_AR_Energy_01": {
       "displayName": "AR-55 Autorifle",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 1000,
+      "maxDurability": -1,
       "icon": "AR-55Autorifle.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_Sniper_Bullet_01": {
       "displayName": "C-32 Bolt Action",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 1000,
+      "maxDurability": -1,
       "icon": "C-32BoltAction.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_Pistol_Bullet_01_scrappy": {
       "displayName": "Rusty K-28",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 400,
+      "maxDurability": -1,
       "icon": "RustyK-28.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_SGun_Bullet_01_scrappy": {
       "displayName": "Rusty Trenchgun",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 400,
+      "maxDurability": -1,
       "icon": "RustyB9Trenchgun.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_SMG_Bullet_01_scrappy": {
       "displayName": "Rusty PDW",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 450,
+      "maxDurability": -1,
       "icon": "RustyS-576PDW.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_E_AR_Energy_01_scrappy": {
       "displayName": "Rusty AR-55",
       "category": "weapons",
       "rarity": "common",
-      "maxDurability": 500,
+      "maxDurability": -1,
       "icon": "RustyAR-55Autorifle.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_Legendary_Sniper_Energy_01": {
       "displayName": "Phasic Lancer",
@@ -2428,137 +2428,137 @@
       "displayName": "Komrad",
       "category": "weapons",
       "rarity": "legendary",
-      "maxDurability": 1500,
+      "maxDurability": -1,
       "icon": "KOMRAD.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_A_Sniper_Gauss_01": {
       "displayName": "Karma-1",
       "category": "weapons",
       "rarity": "legendary",
-      "maxDurability": 1500,
+      "maxDurability": -1,
       "icon": "KARMA-1.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_G_HVY_Beam_01": {
       "displayName": "Zeus Beam",
       "category": "weapons",
       "rarity": "legendary",
-      "maxDurability": 2000,
+      "maxDurability": -1,
       "icon": "ZeusBeam.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_D_Sniper_Gauss_01": {
       "displayName": "Kinetic Arbiter",
       "category": "weapons",
       "rarity": "exotic",
-      "maxDurability": 1400,
+      "maxDurability": -1,
       "icon": "KineticArbiter.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_G_Sniper_Energy_01": {
       "displayName": "Basilisk",
       "category": "weapons",
       "rarity": "exotic",
-      "maxDurability": 1300,
+      "maxDurability": -1,
       "icon": "Basilisk.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_D_SMG_Energy_01": {
       "displayName": "Voltaic Brute",
       "category": "weapons",
       "rarity": "exotic",
-      "maxDurability": 1100,
+      "maxDurability": -1,
       "icon": "VoltaicBrute.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_A_AR_Bullet_01": {
       "displayName": "KOR-47",
       "category": "weapons",
       "rarity": "exotic",
-      "maxDurability": 1100,
+      "maxDurability": -1,
       "icon": "KOR-47.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_A_Pistol_Bullet_01": {
       "displayName": "Hammer",
       "category": "weapons",
       "rarity": "exotic",
-      "maxDurability": 900,
+      "maxDurability": -1,
       "icon": "Hammer.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_G_AR_Beam_01": {
       "displayName": "Gorgon",
       "category": "weapons",
       "rarity": "epic",
-      "maxDurability": 1300,
+      "maxDurability": -1,
       "icon": "Gorgon.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_A_BR_Bullet_01": {
       "displayName": "KBR Longshot",
       "category": "weapons",
       "rarity": "epic",
-      "maxDurability": 1200,
+      "maxDurability": -1,
       "icon": "KBRLongshot.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_D_AR_Bullet_01": {
       "displayName": "Advocate",
       "category": "weapons",
       "rarity": "epic",
-      "maxDurability": 1200,
+      "maxDurability": -1,
       "icon": "Advocate.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_D_SGun_Shard_01": {
       "displayName": "Shattergun",
       "category": "weapons",
       "rarity": "epic",
-      "maxDurability": 1000,
+      "maxDurability": -1,
       "icon": "Shattergun.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_G_SMG_Needle_01": {
       "displayName": "Asp Flechette Gun",
       "category": "weapons",
       "rarity": "epic",
-      "maxDurability": 1200,
+      "maxDurability": -1,
       "icon": "AspFlechetteGun.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_D_LMG_Energy_01": {
       "displayName": "ICA Guarantee",
       "category": "weapons",
       "rarity": "rare",
-      "maxDurability": 1600,
+      "maxDurability": -1,
       "icon": "ICAGuarantee.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_D_BR_Shard_01": {
       "displayName": "Lacerator",
       "category": "weapons",
       "rarity": "rare",
-      "maxDurability": 1300,
+      "maxDurability": -1,
       "icon": "Lacerator.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_A_SGun_Energy_01": {
       "displayName": "PKR Maelstrom",
       "category": "weapons",
       "rarity": "rare",
-      "maxDurability": 900,
+      "maxDurability": -1,
       "icon": "PKRMaelstrom.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "WP_G_AR_Energy_01": {
       "displayName": "Phasic Lancer",
       "category": "weapons",
       "rarity": "rare",
-      "maxDurability": 1400,
+      "maxDurability": -1,
       "icon": "PhasicLancer.png",
-      "maxStackSize": 1
+      "maxStackSize": 0
     },
     "KMarks": {
       "icon": "K-Marks.png"
