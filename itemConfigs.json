@@ -30,13 +30,433 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
+        "Heavy": {
+            "displayName": "Heavy Ammo",
+            "category": "ammo",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "HeavyAmmo.png",
+            "maxStackSize": 50,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Light": {
+            "displayName": "Light Ammo",
+            "category": "ammo",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "LightAmmo.png",
+            "maxStackSize": 250,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Medium": {
+            "displayName": "Medium Ammo",
+            "category": "ammo",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "MediumAmmo.png",
+            "maxStackSize": 250,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shotgun": {
+            "displayName": "Shotgun Ammo",
+            "category": "ammo",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "ShotgunAmmo.png",
+            "maxStackSize": 50,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Special": {
+            "displayName": "Special Ammo",
+            "category": "ammo",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "SpecialAmmo.png",
+            "maxStackSize": 50,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Bag_04": {
+            "displayName": "Heavy Duty Backpack",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "HeavyDutyBackpack.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_01": {
+            "displayName": "Helmet",
+            "category": "armor",
+            "rarity": "common",
+            "maxDurability": 500,
+            "icon": "BasicHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_04": {
+            "displayName": "Helmet",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": 800,
+            "icon": "EnhancedHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_05": {
+            "displayName": "Helmet",
+            "category": "armor",
+            "rarity": "exotic",
+            "maxDurability": 900,
+            "icon": "EnhancedHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_03": {
+            "displayName": "Helmet",
+            "category": "armor",
+            "rarity": "rare",
+            "maxDurability": 700,
+            "icon": "CombatHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_02": {
+            "displayName": "Helmet",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": 600,
+            "icon": "StandardHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Bag_03": {
+            "displayName": "Large Backpack",
+            "category": "armor",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "LargeBackpack.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Bag_02": {
+            "displayName": "Medium Backpack",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "MediumBackpack.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Bag_05": {
+            "displayName": "Military Backpack",
+            "category": "armor",
+            "rarity": "exotic",
+            "maxDurability": -1,
+            "icon": "HeavyDutyBackpack.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_NV_01": {
+            "displayName": "NV Helmet",
+            "category": "armor",
+            "rarity": "legendary",
+            "maxDurability": 1000,
+            "icon": "NVHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Restoration_03": {
+            "displayName": "Restoration Helmet",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": 800,
+            "icon": "EnhancedHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Restoration_04": {
+            "displayName": "Restoration Helmet",
+            "category": "armor",
+            "rarity": "exotic",
+            "maxDurability": 900,
+            "icon": "EnhancedHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Restoration_02": {
+            "displayName": "Restoration Helmet",
+            "category": "armor",
+            "rarity": "rare",
+            "maxDurability": 700,
+            "icon": "EnhancedHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Restoration_01": {
+            "displayName": "Restoration Helmet",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": 600,
+            "icon": "EnhancedHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_Restoration_03": {
+            "displayName": "Restoration Shield",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": 800,
+            "icon": "EnhancedShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "ShieldRestoration04": {
+            "displayName": "Restoration Shield",
+            "category": "armor",
+            "rarity": "legendary",
+            "maxDurability": 1100,
+            "icon": "EnhancedShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_Restoration_02": {
+            "displayName": "Restoration Shield",
+            "category": "armor",
+            "rarity": "rare",
+            "maxDurability": 700,
+            "icon": "EnhancedShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_Restoration_01": {
+            "displayName": "Restoration Shield",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": 600,
+            "icon": "EnhancedShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_01": {
+            "displayName": "Shield",
+            "category": "armor",
+            "rarity": "common",
+            "maxDurability": 500,
+            "icon": "BasicShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_04": {
+            "displayName": "Shield",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": 800,
+            "icon": "EnhancedShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_05": {
+            "displayName": "Shield",
+            "category": "armor",
+            "rarity": "exotic",
+            "maxDurability": 900,
+            "icon": "EnhancedShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_03": {
+            "displayName": "Shield",
+            "category": "armor",
+            "rarity": "rare",
+            "maxDurability": 700,
+            "icon": "CombatShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Shield_02": {
+            "displayName": "Shield",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": 600,
+            "icon": "StandardShields.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Bag_01": {
+            "displayName": "Small Backpack",
+            "category": "armor",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "SmallBackpack.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Vest_02": {
+            "displayName": "Standard Vest",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": 600,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Vest_05": {
+            "displayName": "Superior Vest",
+            "category": "armor",
+            "rarity": "legendary",
+            "maxDurability": 1200,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Tactical_01": {
+            "displayName": "Tactical Helmet",
+            "category": "armor",
+            "rarity": "common",
+            "maxDurability": 500,
+            "icon": "CombatHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Tactical_04": {
+            "displayName": "Tactical Helmet",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": 800,
+            "icon": "CombatHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Tactical_05": {
+            "displayName": "Tactical Helmet",
+            "category": "armor",
+            "rarity": "exotic",
+            "maxDurability": 900,
+            "icon": "CombatHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Tactical_03": {
+            "displayName": "Tactical Helmet",
+            "category": "armor",
+            "rarity": "rare",
+            "maxDurability": 700,
+            "icon": "CombatHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Helmet_Tactical_02": {
+            "displayName": "Tactical Helmet",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": 600,
+            "icon": "CombatHelmet.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Vest_Tactical_01": {
+            "displayName": "Tactical Vest I",
+            "category": "armor",
+            "rarity": "uncommon",
+            "maxDurability": 650,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Vest_Tactical_02": {
+            "displayName": "Tactical Vest Ii",
+            "category": "armor",
+            "rarity": "rare",
+            "maxDurability": 750,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Vest_Tactical_03": {
+            "displayName": "Tactical Vest Iii",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": 900,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Vest_Tactical_04": {
+            "displayName": "Tactical Vest Iv",
+            "category": "armor",
+            "rarity": "epic",
+            "maxDurability": 1100,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Vest_Tactical_05": {
+            "displayName": "Tactical Vest V",
+            "category": "armor",
+            "rarity": "legendary",
+            "maxDurability": 1300,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Bag_01_broken": {
+            "displayName": "Worn Emergency Bag",
+            "category": "armor",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "WornEmergencyBag.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
         "Mod_Optic_Variable_01": {
             "displayName": "2-4x Variable Optic",
             "category": "attachments",
             "rarity": "epic",
             "maxDurability": -1,
             "icon": "2-4xVariableOptic.png",
-            "maxStackSize": 0,
+            "maxStackSize": 1,
             "attachment_weapon": "all",
             "attachment_type": "optic"
         },
@@ -46,7 +466,7 @@
             "rarity": "common",
             "maxDurability": -1,
             "icon": "2xOptic.png",
-            "maxStackSize": 0,
+            "maxStackSize": 1,
             "attachment_weapon": "all",
             "attachment_type": "optic"
         },
@@ -56,7 +476,7 @@
             "rarity": "rare",
             "maxDurability": -1,
             "icon": "4xOptic.png",
-            "maxStackSize": 0,
+            "maxStackSize": 1,
             "attachment_weapon": "all",
             "attachment_type": "optic"
         },
@@ -66,7 +486,7 @@
             "rarity": "epic",
             "maxDurability": -1,
             "icon": "Unknown.png",
-            "maxStackSize": 0,
+            "maxStackSize": 1,
             "attachment_weapon": "all",
             "attachment_type": "optic"
         },
@@ -76,27 +496,1047 @@
             "rarity": "epic",
             "maxDurability": -1,
             "icon": "Unknown.png",
-            "maxStackSize": 0,
+            "maxStackSize": 1,
             "attachment_weapon": "all",
             "attachment_type": "optic"
         },
-        "Adhesive": {
-            "displayName": "Adhesive",
-            "category": "materials",
+        "Mod_ForeGrip_Angled_02": {
+            "displayName": "Angled Foregrip",
+            "category": "attachments",
             "rarity": "uncommon",
             "maxDurability": -1,
             "icon": "Unknown.png",
-            "maxStackSize": 10,
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_ForeGrip_Angled_01": {
+            "displayName": "Angled Foregrip",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_Korolev_Scanner_Oil": {
+            "displayName": "Crude Oil Scanning Module",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "",
+            "maxStackSize": 1,
+            "attachment_weapon": "scanner",
+            "attachment_type": "scanner"
+        },
+        "Mod_RearGrip_02": {
+            "displayName": "Ergonomic Grip",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "TacticalRearGrip.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_RearGrip_01": {
+            "displayName": "Ergonomic Grip",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "TacticalRearGrip.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_Korolev_Scanner_AlienCrystals": {
+            "displayName": "Focus Crystal Scanning Module",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "",
+            "maxStackSize": 1,
+            "attachment_weapon": "scanner",
+            "attachment_type": "scanner"
+        },
+        "Mod_Converter_Heavy_03": {
+            "displayName": "Heavy Converter",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Heavy_02": {
+            "displayName": "Heavy Converter",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Heavy_01": {
+            "displayName": "Heavy Converter",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "converter"
+        },
+        "Mod_Magazine_Heavy_03": {
+            "displayName": "Heavy Extended",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "HeavyExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Heavy_02": {
+            "displayName": "Heavy Extended",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "HeavyExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Heavy_01": {
+            "displayName": "Heavy Extended",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "HeavyExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Heavy_ReloadSpeed_04": {
+            "displayName": "Heavy Quickdraw",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Heavy_ReloadSpeed_03": {
+            "displayName": "Heavy Quickdraw",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Heavy_ReloadSpeed_02": {
+            "displayName": "Heavy Quickdraw",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Heavy_ReloadSpeed_01": {
+            "displayName": "Heavy Quickdraw",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "magazine"
+        },
+        "Mod_Optic_1x_02": {
+            "displayName": "Holographic Sight",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "optic"
+        },
+        "Mod_Converter_Light_03": {
+            "displayName": "Light Converter",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Light_02": {
+            "displayName": "Light Converter",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Light_01": {
+            "displayName": "Light Converter",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Light_AIDMG_03": {
+            "displayName": "Light Creature DMG",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "LightConverter.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Light_AIDMG_02": {
+            "displayName": "Light Creature DMG",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Light_AIDMG_01": {
+            "displayName": "Light Creature DMG",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "converter"
+        },
+        "Mod_Magazine_Light_03": {
+            "displayName": "Light Extended",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "LightExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_02": {
+            "displayName": "Light Extended",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "LightExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_01": {
+            "displayName": "Light Extended",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "LightExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_EXTReload_02": {
+            "displayName": "Light Extended Quickdraw",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_EXTReload_01": {
+            "displayName": "Light Extended Quickdraw",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_ReloadSpeed_04": {
+            "displayName": "Light Quickdraw",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_ReloadSpeed_03": {
+            "displayName": "Light Quickdraw",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_ReloadSpeed_02": {
+            "displayName": "Light Quickdraw",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Light_ReloadSpeed_01": {
+            "displayName": "Light Quickdraw",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "magazine"
+        },
+        "Mod_Stock_Marksman_02": {
+            "displayName": "Marksman Stock",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Marksman_01": {
+            "displayName": "Marksman Stock",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Converter_Medium_02": {
+            "displayName": "Medium Converter",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Medium_01": {
+            "displayName": "Medium Converter",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Medium_03": {
+            "displayName": "Medium Converter",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Medium_AIDMG_03": {
+            "displayName": "Medium Creature DMG",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Medium_AIDMG_02": {
+            "displayName": "Medium Creature DMG",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Medium_AIDMG_01": {
+            "displayName": "Medium Creature DMG",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "converter"
+        },
+        "Mod_Magazine_Medium_03": {
+            "displayName": "Medium Extended",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "MediumExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Medium_02": {
+            "displayName": "Medium Extended",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "MediumExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Medium_01": {
+            "displayName": "Medium Extended",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "MediumExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Medium_EXTReload_01": {
+            "displayName": "Medium Extended Quickdraw",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Muzzle_Standard_Recoil_03": {
+            "displayName": "Medium Muzzle Break",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "muzzle"
+        },
+        "Mod_Muzzle_Standard_Recoil_02": {
+            "displayName": "Medium Muzzle Break",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "muzzle"
+        },
+        "Mod_Muzzle_Standard_Recoil_01": {
+            "displayName": "Medium Muzzle Break",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "muzzle"
+        },
+        "Mod_MagazineMedium_Reloadspeed_01": {
+            "displayName": "Medium Quickdraw",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Medium_Reloadspeed_04": {
+            "displayName": "Medium Quickdraw",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Medium_Reloadspeed_03": {
+            "displayName": "Medium Quickdraw",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Medium_Reloadspeed_02": {
+            "displayName": "Medium Quickdraw",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "magazine"
+        },
+        "Mod_Muzzle_Standard_Supressor_01": {
+            "displayName": "Medium Supressor",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "medium",
+            "attachment_type": "muzzle"
+        },
+        "Mod_Stock_Marksman_Equip_02": {
+            "displayName": "MKM Quickdraw Stock",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Marksman_Equip_01": {
+            "displayName": "MKM Quickdraw Stock",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Marksman_ADS_02": {
+            "displayName": "MKM Tactical Stock",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Marksman_ADS_01": {
+            "displayName": "MKM Tactical Stock",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Marksman_ADSEquip_01": {
+            "displayName": "MKM Ultralight Stock",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Marksman_ADSEquip_02": {
+            "displayName": "MKM Ultralight Stock",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "heavy",
+            "attachment_type": "stock"
+        },
+        "Mod_ForeGrip_Equip_02": {
+            "displayName": "Quickdraw Foregrip",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_ForeGrip_Equip_01": {
+            "displayName": "Quickdraw Foregrip",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_Stock_Standard_Equip_01": {
+            "displayName": "Quickdraw Stock",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "noheavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Standard_Equip_02": {
+            "displayName": "Quickdraw Stock",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "noheavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Optic_1x_01": {
+            "displayName": "Red Dot Sight",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "optic"
+        },
+        "Mod_Converter_Shotgun_03": {
+            "displayName": "Shotgun Converter",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Shotgun_02": {
+            "displayName": "Shotgun Converter",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "converter"
+        },
+        "Mod_Converter_Shotgun_01": {
+            "displayName": "Shotgun Converter",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "converter"
+        },
+        "Mod_Magazine_Shotgun_01": {
+            "displayName": "Shotgun Extended",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "ShotgunExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Shotgun_02": {
+            "displayName": "Shotgun Extended",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "ShotgunExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Shotgun_03": {
+            "displayName": "Shotgun Extended",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "ShotgunExtended.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Shotgun_ReloadSpeed_01": {
+            "displayName": "Shotgun Quickdraw",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Shotgun_ReloadSpeed_02": {
+            "displayName": "Shotgun Quickdraw",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Shotgun_ReloadSpeed_03": {
+            "displayName": "Shotgun Quickdraw",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "magazine"
+        },
+        "Mod_Magazine_Shotgun_ReloadSpeed_04": {
+            "displayName": "Shotgun Quickdraw",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "magazine"
+        },
+        "Mod_Converter_Shotgun_Slug_01": {
+            "displayName": "Shotgun Slugs",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "shotgun",
+            "attachment_type": "converter"
+        },
+        "Mod_Muzzle_Small_Recoil_03": {
+            "displayName": "Small Muzzle Break",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "muzzle"
+        },
+        "Mod_Muzzle_Small_Recoil_02": {
+            "displayName": "Small Muzzle Break",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "muzzle"
+        },
+        "Mod_Muzzle_Small_Recoil_01": {
+            "displayName": "Small Muzzle Break",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "muzzle"
+        },
+        "Mod_Muzzle_Small_Supressor_01": {
+            "displayName": "Small Supressor",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "SmallSuppressor.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "light",
+            "attachment_type": "muzzle"
+        },
+        "Mod_Stock_Standard_02": {
+            "displayName": "Standard Stock",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "noheavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Standard_01": {
+            "displayName": "Standard Stock",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "noheavy",
+            "attachment_type": "stock"
+        },
+        "Mod_ForeGrip_ADS_03": {
+            "displayName": "Tactical Foregrip",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_ForeGrip_ADS_02": {
+            "displayName": "Tactical Foregrip",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_ForeGrip_ADS_01": {
+            "displayName": "Tactical Foregrip",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_Tactical_Flashlight_01": {
+            "displayName": "Tactical Light",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "tactical"
+        },
+        "Mod_RearGrip_ADS_02": {
+            "displayName": "Tactical Rear Grip",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "TacticalRearGrip.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_RearGrip_ADS_01": {
+            "displayName": "Tactical Rear Grip",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "TacticalRearGrip.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "all",
+            "attachment_type": "grip"
+        },
+        "Mod_Stock_Standard_ADS_01": {
+            "displayName": "Tactical Stock",
+            "category": "attachments",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "noheavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Standard_ADS_02": {
+            "displayName": "Tactical Stock",
+            "category": "attachments",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "noheavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Stock_Standard_ADSEquip_02": {
+            "displayName": "Ultralight Stock",
+            "category": "attachments",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Unknown.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "noheavy",
+            "attachment_type": "stock"
+        },
+        "Mod_Korolev_Scanner_Veltecite": {
+            "displayName": "Veltecite Scanning Module",
+            "category": "attachments",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "VelteciteScanningModule.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "scanner",
+            "attachment_type": "scanner"
+        },
+        "ConsumableAudioDecoy_01": {
+            "displayName": "Audio Decoy",
+            "category": "consumables",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "AudioDecoy.png",
+            "maxStackSize": 5,
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_D_AR_Bullet_01": {
-            "displayName": "Advocate",
-            "category": "weapons",
+        "Consumable_Health_05": {
+            "displayName": "Combat Medkit",
+            "category": "consumables",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "CombatMedkit.png",
+            "maxStackSize": 2,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Consumable_Health_06": {
+            "displayName": "Combat Stim",
+            "category": "consumables",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "CombatStim.png",
+            "maxStackSize": 5,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Consumable_GasGrenade_01": {
+            "displayName": "Gas Grenade",
+            "category": "consumables",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "GasGrenade.png",
+            "maxStackSize": 4,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "ShockGrenade_04": {
+            "displayName": "Heavy Grenade",
+            "category": "consumables",
             "rarity": "epic",
             "maxDurability": -1,
-            "icon": "Advocate.png",
-            "maxStackSize": 0,
+            "icon": "StandardGrenade.png",
+            "maxStackSize": 4,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "ShockGrenade_02": {
+            "displayName": "Light Grenade",
+            "category": "consumables",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "StandardGrenade.png",
+            "maxStackSize": 4,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Consumable_SmokeGrenade_01": {
+            "displayName": "Smoke Grenade",
+            "category": "consumables",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "SmokeGrenade.png",
+            "maxStackSize": 4,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "ShockGrenade_03": {
+            "displayName": "Standard Grenade",
+            "category": "consumables",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "StandardGrenade.png",
+            "maxStackSize": 4,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Consumable_Health_03": {
+            "displayName": "Strong Medkit",
+            "category": "consumables",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "StrongMedkit.png",
+            "maxStackSize": 2,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Consumable_Health_04": {
+            "displayName": "Strong Stim",
+            "category": "consumables",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "StrongStim.png",
+            "maxStackSize": 5,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "ShockGrenade_01": {
+            "displayName": "Weak Grenade",
+            "category": "consumables",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "StandardGrenade.png",
+            "maxStackSize": 4,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Consumable_Health_02": {
+            "displayName": "Weak Medkit",
+            "category": "consumables",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "WeakMedkit.png",
+            "maxStackSize": 5,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Consumable_Health_01": {
+            "displayName": "Weak Stim",
+            "category": "consumables",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "WeakStim.png",
+            "maxStackSize": 5,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "Adhesive": {
+            "displayName": "Resin Gun",
+            "category": "materials",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "resingun.png",
+            "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -121,7 +1561,7 @@
             "attachment_type": ""
         },
         "AI_CrusherHead": {
-            "displayName": "Ai Crusherhead",
+            "displayName": "Crusher Head",
             "category": "materials",
             "rarity": "legendary",
             "maxDurability": -1,
@@ -131,7 +1571,7 @@
             "attachment_type": ""
         },
         "AI_CrusherMeat": {
-            "displayName": "Ai Crushermeat",
+            "displayName": "Crusher Flesh",
             "category": "materials",
             "rarity": "epic",
             "maxDurability": -1,
@@ -141,7 +1581,7 @@
             "attachment_type": ""
         },
         "AI_CrusherSkin": {
-            "displayName": "Ai Crusherskin",
+            "displayName": "Crusher Hide",
             "category": "materials",
             "rarity": "rare",
             "maxDurability": -1,
@@ -151,7 +1591,7 @@
             "attachment_type": ""
         },
         "AI_RattlerEyes": {
-            "displayName": "Ai Rattlereyes",
+            "displayName": "Rattler Eyes",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -161,7 +1601,7 @@
             "attachment_type": ""
         },
         "AI_RattlerHead": {
-            "displayName": "Ai Rattlerhead",
+            "displayName": "Rattler Head",
             "category": "materials",
             "rarity": "legendary",
             "maxDurability": -1,
@@ -171,31 +1611,11 @@
             "attachment_type": ""
         },
         "AI_RattlerSkin": {
-            "displayName": "Ai Rattlerskin",
+            "displayName": "Rattler Skin",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
             "icon": "RattlerSkin.png",
-            "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "AI_WeremoleHead": {
-            "displayName": "Ai Weremolehead",
-            "category": "materials",
-            "rarity": "legendary",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 5,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "AI_WeremoleMeat": {
-            "displayName": "Ai Weremolemeat",
-            "category": "materials",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -205,7 +1625,7 @@
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "alienscrap.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -221,62 +1641,12 @@
             "attachment_type": ""
         },
         "AlphaWardenHeart": {
-            "displayName": "Alphawardenheart",
+            "displayName": "Alpha Crusher Heart",
             "category": "materials",
             "rarity": "exotic",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "alphacrusherheart",
             "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Bag_Altered_01": {
-            "displayName": "Altered Backpack I",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Bag_Altered_02": {
-            "displayName": "Altered Backpack Ii",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Bag_Altered_03": {
-            "displayName": "Altered Backpack Iii",
-            "category": "armor",
-            "rarity": "legendary",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "AlteredMeteorCore": {
-            "displayName": "Altered Meteor Core",
-            "category": "materials",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "AlteredMeteorCore.png",
-            "maxStackSize": 20,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "AlteredMeteorFragment": {
-            "displayName": "Altered Meteor Fragment",
-            "category": "materials",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "AlteredMeteorFragment.png",
-            "maxStackSize": 20,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -301,82 +1671,32 @@
             "attachment_type": ""
         },
         "AluminumParts": {
-            "displayName": "Aluminumparts",
+            "displayName": "Aluminum Scrap",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "aluminumscrap.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
         },
         "AnaestheticsContainers": {
-            "displayName": "Anaestheticscontainers",
+            "displayName": "Medical Supplies",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "medicalsupplies.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
-        },
-        "Mod_ForeGrip_Angled_02": {
-            "displayName": "Angled Foregrip",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_ForeGrip_Angled_01": {
-            "displayName": "Angled Foregrip",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
         },
         "Antibiotics": {
-            "displayName": "Antibiotics",
+            "displayName": "Old Medicine",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "oldmedicine.png",
             "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_E_AR_Energy_01": {
-            "displayName": "AR-55 Autorifle",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "AR-55Autorifle.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_G_SMG_Needle_01": {
-            "displayName": "Asp Flechette Gun",
-            "category": "weapons",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "AspFlechetteGun.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "ConsumableAudioDecoy_01": {
-            "displayName": "Audio Decoy",
-            "category": "consumables",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "AudioDecoy.png",
-            "maxStackSize": 5,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -390,18 +1710,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_E_SGun_Bullet_01": {
-            "displayName": "B9 Trenchgun",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "B9Trenchgun.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "BallBearings": {
-            "displayName": "Ballbearings",
+            "displayName": "Ball Bearings",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -410,58 +1720,18 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Vest_01": {
-            "displayName": "Basic Vest",
-            "category": "armor",
-            "rarity": "common",
-            "maxDurability": 400,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_G_Sniper_Energy_01": {
-            "displayName": "Basilisk",
-            "category": "weapons",
-            "rarity": "exotic",
-            "maxDurability": -1,
-            "icon": "Basilisk.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "Battery": {
-            "displayName": "Battery",
+            "displayName": "\"Fusion Cartridge\" Batteries",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "TOOL_Binocular_Basic_01": {
-            "displayName": "Binoculars",
-            "category": "tools",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Binoculars.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Biomass": {
-            "displayName": "Biomass",
-            "category": "materials",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "'FusionCartridge'Batteries.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
         },
         "BlueRunnerEgg": {
-            "displayName": "Bluerunneregg",
+            "displayName": "Blue Runner Egg",
             "category": "materials",
             "rarity": "rare",
             "maxDurability": -1,
@@ -561,7 +1831,7 @@
             "attachment_type": ""
         },
         "BrightcapMushroom": {
-            "displayName": "Brightcapmushroom",
+            "displayName": "Brightcap Mushroom",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -580,26 +1850,6 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_D_Pistol_Bullet_01": {
-            "displayName": "Bulldog Pistol",
-            "category": "weapons",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Bulldog.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_E_Sniper_Bullet_01": {
-            "displayName": "C-32 Bolt Action",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "C-32BoltAction.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "Cables": {
             "displayName": "Cables",
             "category": "materials",
@@ -611,7 +1861,7 @@
             "attachment_type": ""
         },
         "ChargedForgeIronIngot": {
-            "displayName": "Chargedforgeironingot",
+            "displayName": "Charged Tharis Iron Ingot",
             "category": "materials",
             "rarity": "exotic",
             "maxDurability": -1,
@@ -621,42 +1871,12 @@
             "attachment_type": ""
         },
         "CircuitBoard": {
-            "displayName": "Circuitboard",
+            "displayName": "Circuit Board",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
             "icon": "CircuitBoard.png",
             "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Consumable_Health_05": {
-            "displayName": "Combat Medkit",
-            "category": "consumables",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "CombatMedkit.png",
-            "maxStackSize": 2,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Consumable_Health_06": {
-            "displayName": "Combat Stim",
-            "category": "consumables",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "CombatStim.png",
-            "maxStackSize": 5,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Vest_03": {
-            "displayName": "Combat Vest",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": 800,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -681,7 +1901,7 @@
             "attachment_type": ""
         },
         "CompoundSheets": {
-            "displayName": "Compoundsheets",
+            "displayName": "Compound Sheets",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
@@ -691,7 +1911,7 @@
             "attachment_type": ""
         },
         "CopperWire": {
-            "displayName": "Copperwire",
+            "displayName": "Copper Wire",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
@@ -790,16 +2010,6 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Mod_Korolev_Scanner_Oil": {
-            "displayName": "Crude Oil Scanning Module",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "DerelictExplosives": {
             "displayName": "Derelict Explosives",
             "category": "materials",
@@ -807,16 +2017,6 @@
             "maxDurability": -1,
             "icon": "DerelictExplosives.png",
             "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Vest_04": {
-            "displayName": "Enhanced Vest",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 1000,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -840,43 +2040,13 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Mod_RearGrip_02": {
-            "displayName": "Ergonomic Grip",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "TacticalRearGrip.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_RearGrip_01": {
-            "displayName": "Ergonomic Grip",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "TacticalRearGrip.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
         "Fabrics": {
-            "displayName": "Fabrics",
+            "displayName": "Textiles",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "textiles.png",
             "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "TOOL_Flashlight_01": {
-            "displayName": "Flashlight",
-            "category": "tools",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Flashlight.png",
-            "maxStackSize": 0,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -890,123 +2060,33 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Helmet_Altered_01": {
-            "displayName": "Forged Helmet",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 800,
-            "icon": "AlteredCombatHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Altered_02": {
-            "displayName": "Forged Helmet",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": 900,
-            "icon": "AlteredEnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Altered_03": {
-            "displayName": "Forged Helmet",
-            "category": "armor",
-            "rarity": "legendary",
-            "maxDurability": 1000,
-            "icon": "AlteredEnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_Altered_01": {
-            "displayName": "Forged Shield",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 800,
-            "icon": "AlteredShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_Altered_02": {
-            "displayName": "Forged Shield",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": 900,
-            "icon": "AlteredShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_Altered_03": {
-            "displayName": "Forged Shield",
-            "category": "armor",
-            "rarity": "legendary",
-            "maxDurability": 1000,
-            "icon": "AlteredShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "ForgeIron": {
-            "displayName": "Forgeiron",
+            "displayName": "Tharis Iron Sample",
             "category": "materials",
             "rarity": "rare",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "tharisironsample",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
         },
         "ForgeIronIngot": {
-            "displayName": "Forgeironingot",
+            "displayName": "Tharis Iron",
             "category": "materials",
             "rarity": "epic",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "tharisiron",
             "maxStackSize": 6,
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Consumable_GasGrenade_01": {
-            "displayName": "Gas Grenade",
-            "category": "consumables",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "GasGrenade.png",
-            "maxStackSize": 4,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "GenericCreatureDrop": {
-            "displayName": "Genericcreaturedrop",
-            "category": "materials",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "GlowingCrystalCoreShard": {
-            "displayName": "Glowingcrystalcoreshard",
+            "displayName": "Teratomorphic Crystal Core",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "TeratomorphicCrystalCore.png",
             "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_G_AR_Beam_01": {
-            "displayName": "Gorgon",
-            "category": "weapons",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Gorgon.png",
-            "maxStackSize": 0,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -1020,18 +2100,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_A_Pistol_Bullet_01": {
-            "displayName": "Hammer",
-            "category": "weapons",
-            "rarity": "exotic",
-            "maxDurability": -1,
-            "icon": "Hammer.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "HardDrive_legendary": {
-            "displayName": "Harddrive Legendary",
+            "displayName": "Legendary Harddrive",
             "category": "materials",
             "rarity": "legendary",
             "maxDurability": -1,
@@ -1051,217 +2121,17 @@
             "attachment_type": ""
         },
         "HardenedBoneAlloy": {
-            "displayName": "Hardenedbonealloy",
+            "displayName": "Hardened Bone Plate",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "hardenedboneplate.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Heavy": {
-            "displayName": "Heavy Ammo",
-            "category": "ammo",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "HeavyAmmo.png",
-            "maxStackSize": 50,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Converter_Heavy_03": {
-            "displayName": "Heavy Converter",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Heavy_02": {
-            "displayName": "Heavy Converter",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Heavy_01": {
-            "displayName": "Heavy Converter",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "converter"
-        },
-        "Bag_04": {
-            "displayName": "Heavy Duty Backpack",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "HeavyDutyBackpack.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Magazine_Heavy_03": {
-            "displayName": "Heavy Extended",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "HeavyExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Heavy_02": {
-            "displayName": "Heavy Extended",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "HeavyExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Heavy_01": {
-            "displayName": "Heavy Extended",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "HeavyExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "magazine"
-        },
-        "ShockGrenade_04": {
-            "displayName": "Heavy Grenade",
-            "category": "consumables",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "StandardGrenade.png",
-            "maxStackSize": 4,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "TOOL_Mining_01": {
-            "displayName": "Heavy Mining Tool",
-            "category": "tools",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "HeavyMiningTool.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Magazine_Heavy_ReloadSpeed_04": {
-            "displayName": "Heavy Quickdraw",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Heavy_ReloadSpeed_03": {
-            "displayName": "Heavy Quickdraw",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Heavy_ReloadSpeed_02": {
-            "displayName": "Heavy Quickdraw",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Heavy_ReloadSpeed_01": {
-            "displayName": "Heavy Quickdraw",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "magazine"
-        },
-        "Helmet_01": {
-            "displayName": "Helmet",
-            "category": "armor",
-            "rarity": "common",
-            "maxDurability": 500,
-            "icon": "BasicHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_04": {
-            "displayName": "Helmet",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 800,
-            "icon": "EnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_05": {
-            "displayName": "Helmet",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": 900,
-            "icon": "EnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_03": {
-            "displayName": "Helmet",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": 700,
-            "icon": "CombatHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_02": {
-            "displayName": "Helmet",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": 600,
-            "icon": "StandardHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Optic_1x_02": {
-            "displayName": "Holographic Sight",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "optic"
-        },
         "HydraulicPiston": {
-            "displayName": "Hydraulicpiston",
+            "displayName": "Hydraulic Piston",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -1270,18 +2140,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_D_LMG_Energy_01": {
-            "displayName": "ICA Guarantee",
-            "category": "weapons",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "ICAGuarantee.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "ICAScrip": {
-            "displayName": "Ica Scrip",
+            "displayName": "ICA Scrip",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -1291,11 +2151,11 @@
             "attachment_type": ""
         },
         "Insulation": {
-            "displayName": "Insulation",
+            "displayName": "Salvaged Insulation",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "SalvagedInsulation.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -1310,96 +2170,6 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_E_Pistol_Bullet_01": {
-            "displayName": "K-28",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "K-28.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_A_Sniper_Gauss_01": {
-            "displayName": "Karma-1",
-            "category": "weapons",
-            "rarity": "legendary",
-            "maxDurability": -1,
-            "icon": "KARMA-1.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_A_BR_Bullet_01": {
-            "displayName": "KBR Longshot",
-            "category": "weapons",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "KBRLongshot.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_D_Sniper_Gauss_01": {
-            "displayName": "Kinetic Arbiter",
-            "category": "weapons",
-            "rarity": "exotic",
-            "maxDurability": -1,
-            "icon": "KineticArbiter.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_A_SMG_Shard_01": {
-            "displayName": "KM-9 Scrapper",
-            "category": "weapons",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "KM-9'Scrapper'.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_A_Launch_MSL_01": {
-            "displayName": "Komrad",
-            "category": "weapons",
-            "rarity": "legendary",
-            "maxDurability": -1,
-            "icon": "KOMRAD.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_A_AR_Bullet_01": {
-            "displayName": "KOR-47",
-            "category": "weapons",
-            "rarity": "exotic",
-            "maxDurability": -1,
-            "icon": "KOR-47.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Korolev_Scanner_AlienCrystals": {
-            "displayName": "Korolev Scanner Aliencrystals",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Korolev_Scanner_Veltecite": {
-            "displayName": "Korolev Scanner Veltecite",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "VelteciteScanningModule.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "KorolevScrip": {
             "displayName": "Korolev Scrip",
             "category": "materials",
@@ -1407,26 +2177,6 @@
             "maxDurability": -1,
             "icon": "KorolevScrip.png",
             "maxStackSize": 10000,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_D_BR_Shard_01": {
-            "displayName": "Lacerator",
-            "category": "weapons",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Lacerator.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Bag_03": {
-            "displayName": "Large Backpack",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "LargeBackpack.png",
-            "maxStackSize": 1,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -1450,188 +2200,18 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Light": {
-            "displayName": "Light Ammo",
-            "category": "ammo",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "LightAmmo.png",
-            "maxStackSize": 250,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Converter_Light_03": {
-            "displayName": "Light Converter",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Light_02": {
-            "displayName": "Light Converter",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Light_01": {
-            "displayName": "Light Converter",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Light_AIDMG_03": {
-            "displayName": "Light Creature DMG",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "LightConverter.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Light_AIDMG_02": {
-            "displayName": "Light Creature DMG",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Light_AIDMG_01": {
-            "displayName": "Light Creature DMG",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "converter"
-        },
-        "Mod_Magazine_Light_03": {
-            "displayName": "Light Extended",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "LightExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Light_02": {
-            "displayName": "Light Extended",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "LightExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Light_01": {
-            "displayName": "Light Extended",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "LightExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Light_EXTReload_02": {
-            "displayName": "Light Extended Quickdraw",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Light_EXTReload_01": {
-            "displayName": "Light Extended Quickdraw",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "ShockGrenade_02": {
-            "displayName": "Light Grenade",
-            "category": "consumables",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "StandardGrenade.png",
-            "maxStackSize": 4,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Magazine_Light_ReloadSpeed_04": {
-            "displayName": "Light Quickdraw",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Light_ReloadSpeed_03": {
-            "displayName": "Light Quickdraw",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Light_ReloadSpeed_02": {
-            "displayName": "Light Quickdraw",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Light_ReloadSpeed_01": {
-            "displayName": "Light Quickdraw",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "magazine"
-        },
         "LiquidFertilizer": {
-            "displayName": "Liquidfertilizer",
+            "displayName": "Liquid Fertilizer",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "liquidfertilizer.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
         },
         "MagneticFieldStabilizer": {
-            "displayName": "Magneticfieldstabilizer",
+            "displayName": "Magnetic Field Stabilizer",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -1639,236 +2219,6 @@
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
-        },
-        "WP_G_AR_Needle_01": {
-            "displayName": "Manticore",
-            "category": "weapons",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Manticore.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Stock_Marksman_02": {
-            "displayName": "Marksman Stock",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Marksman_01": {
-            "displayName": "Marksman Stock",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
-        },
-        "Medium": {
-            "displayName": "Medium Ammo",
-            "category": "ammo",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "MediumAmmo.png",
-            "maxStackSize": 250,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Bag_02": {
-            "displayName": "Medium Backpack",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "MediumBackpack.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Converter_Medium_02": {
-            "displayName": "Medium Converter",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Medium_01": {
-            "displayName": "Medium Converter",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Medium_03": {
-            "displayName": "Medium Converter",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Medium_AIDMG_03": {
-            "displayName": "Medium Creature DMG",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Medium_AIDMG_02": {
-            "displayName": "Medium Creature DMG",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Medium_AIDMG_01": {
-            "displayName": "Medium Creature DMG",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "converter"
-        },
-        "Mod_Magazine_Medium_03": {
-            "displayName": "Medium Extended",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "MediumExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Medium_02": {
-            "displayName": "Medium Extended",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "MediumExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Medium_01": {
-            "displayName": "Medium Extended",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "MediumExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Medium_EXTReload_01": {
-            "displayName": "Medium Extended Quickdraw",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Muzzle_Standard_Recoil_03": {
-            "displayName": "Medium Muzzle Break",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "muzzle"
-        },
-        "Mod_Muzzle_Standard_Recoil_02": {
-            "displayName": "Medium Muzzle Break",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "muzzle"
-        },
-        "Mod_Muzzle_Standard_Recoil_01": {
-            "displayName": "Medium Muzzle Break",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "muzzle"
-        },
-        "Mod_MagazineMedium_Reloadspeed_01": {
-            "displayName": "Medium Quickdraw",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 20,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Medium_Reloadspeed_04": {
-            "displayName": "Medium Quickdraw",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Medium_Reloadspeed_03": {
-            "displayName": "Medium Quickdraw",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Medium_Reloadspeed_02": {
-            "displayName": "Medium Quickdraw",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "magazine"
-        },
-        "Mod_Muzzle_Standard_Supressor_01": {
-            "displayName": "Medium Supressor",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "medium",
-            "attachment_type": "muzzle"
         },
         "MetallicAlloys": {
             "displayName": "Metallic Alloys",
@@ -1900,26 +2250,6 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Bag_05": {
-            "displayName": "Military Backpack",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": -1,
-            "icon": "HeavyDutyBackpack.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "TOOL_MineralScanner_01": {
-            "displayName": "Mineral Scanner",
-            "category": "tools",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Scanner.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "MiniatureReactor": {
             "displayName": "Miniaturereactor",
             "category": "materials",
@@ -1929,66 +2259,6 @@
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
-        },
-        "Mod_Stock_Marksman_Equip_02": {
-            "displayName": "MKM Quickdraw Stock",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Marksman_Equip_01": {
-            "displayName": "MKM Quickdraw Stock",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Marksman_ADS_02": {
-            "displayName": "MKM Tactical Stock",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Marksman_ADS_01": {
-            "displayName": "MKM Tactical Stock",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Marksman_ADSEquip_01": {
-            "displayName": "MKM Ultralight Stock",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Marksman_ADSEquip_02": {
-            "displayName": "MKM Ultralight Stock",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "heavy",
-            "attachment_type": "stock"
         },
         "NeuroToxicGlands": {
             "displayName": "Neurotoxicglands",
@@ -2010,26 +2280,6 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Helmet_NV_01": {
-            "displayName": "NV Helmet",
-            "category": "armor",
-            "rarity": "legendary",
-            "maxDurability": 1000,
-            "icon": "NVHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Oil": {
-            "displayName": "Oil",
-            "category": "materials",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 20,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "QuestItem_OilPumpBeacon": {
             "displayName": "Oil Pump Beacon",
             "category": "materials",
@@ -2041,11 +2291,11 @@
             "attachment_type": ""
         },
         "OilTank": {
-            "displayName": "Oiltank",
+            "displayName": "NiC Oil Canister",
             "category": "materials",
             "rarity": "epic",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "NiCOilCanister.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -2061,7 +2311,7 @@
             "attachment_type": ""
         },
         "OpticGlass": {
-            "displayName": "Opticglass",
+            "displayName": "Optic Glass",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -2071,7 +2321,7 @@
             "attachment_type": ""
         },
         "QuestItem_OrbitalCanonTargetBeacon": {
-            "displayName": "Orbital Canon Target Beacon",
+            "displayName": "Orbital Cannon Beacon",
             "category": "materials",
             "rarity": "epic",
             "maxDurability": -1,
@@ -2091,7 +2341,7 @@
             "attachment_type": ""
         },
         "OsirisScrip": {
-            "displayName": "Osirisscrip",
+            "displayName": "Osiris Scrip",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -2100,48 +2350,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_Legendary_Sniper_Energy_01": {
-            "displayName": "Phasic Lancer",
-            "category": "weapons",
-            "rarity": "epic",
-            "maxDurability": 1400,
-            "icon": "PhasicLancer.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_G_AR_Energy_01": {
-            "displayName": "Phasic Lancer",
-            "category": "weapons",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "PhasicLancer.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_A_SGun_Energy_01": {
-            "displayName": "PKR Maelstrom",
-            "category": "weapons",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "PKRMaelstrom.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Polymetallic": {
-            "displayName": "Polymetallic Prefabricate",
-            "category": "materials",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "PolymetallicPrefabricate.png",
-            "maxStackSize": 20,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "PolymetallicPrefabricate": {
-            "displayName": "Polymetallicprefabricate",
+            "displayName": "Polymetallic Prefabricate",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
@@ -2151,11 +2361,11 @@
             "attachment_type": ""
         },
         "PortableLabEquipmentBox": {
-            "displayName": "Portablelabequipmentbox",
+            "displayName": "Portable Lab",
             "category": "materials",
             "rarity": "epic",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "portablelab.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -2171,11 +2381,11 @@
             "attachment_type": ""
         },
         "ProteinBar": {
-            "displayName": "Proteinbar",
+            "displayName": "Protein Bar",
             "category": "materials",
             "rarity": "common",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "proteinbar.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -2191,7 +2401,7 @@
             "attachment_type": ""
         },
         "PureForgeIron": {
-            "displayName": "Pureforgeiron",
+            "displayName": "Pure Tharis Iron",
             "category": "materials",
             "rarity": "epic",
             "maxDurability": -1,
@@ -2200,52 +2410,12 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Mod_ForeGrip_Equip_02": {
-            "displayName": "Quickdraw Foregrip",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_ForeGrip_Equip_01": {
-            "displayName": "Quickdraw Foregrip",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_Stock_Standard_Equip_01": {
-            "displayName": "Quickdraw Stock",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Standard_Equip_02": {
-            "displayName": "Quickdraw Stock",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
         "RadioSpareParts": {
-            "displayName": "Radiospareparts",
+            "displayName": "Radio Equipment",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "radioequipment.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -2270,148 +2440,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Mod_Optic_1x_01": {
-            "displayName": "Red Dot Sight",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "optic"
-        },
-        "Helmet_Restoration_03": {
-            "displayName": "Restoration Helmet",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 800,
-            "icon": "EnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Restoration_04": {
-            "displayName": "Restoration Helmet",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": 900,
-            "icon": "EnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Restoration_02": {
-            "displayName": "Restoration Helmet",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": 700,
-            "icon": "EnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Restoration_01": {
-            "displayName": "Restoration Helmet",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": 600,
-            "icon": "EnhancedHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_Restoration_03": {
-            "displayName": "Restoration Shield",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 800,
-            "icon": "EnhancedShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "ShieldRestoration04": {
-            "displayName": "Restoration Shield",
-            "category": "armor",
-            "rarity": "legendary",
-            "maxDurability": 1100,
-            "icon": "EnhancedShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_Restoration_02": {
-            "displayName": "Restoration Shield",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": 700,
-            "icon": "EnhancedShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_Restoration_01": {
-            "displayName": "Restoration Shield",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": 600,
-            "icon": "EnhancedShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_E_AR_Energy_01_scrappy": {
-            "displayName": "Rusty AR-55",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "RustyAR-55Autorifle.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_E_Pistol_Bullet_01_scrappy": {
-            "displayName": "Rusty K-28",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "RustyK-28.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_E_SMG_Bullet_01_scrappy": {
-            "displayName": "Rusty PDW",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "RustyS-576PDW.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_E_SGun_Bullet_01_scrappy": {
-            "displayName": "Rusty Trenchgun",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "RustyB9Trenchgun.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_E_SMG_Bullet_01": {
-            "displayName": "S-576 PDW",
-            "category": "weapons",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "S-576PDW.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "SampleContainer": {
-            "displayName": "Samplecontainer",
+            "displayName": "Sample Container",
             "category": "materials",
             "rarity": "rare",
             "maxDurability": -1,
@@ -2421,22 +2451,12 @@
             "attachment_type": ""
         },
         "SamplingDevice": {
-            "displayName": "Samplingdevice",
+            "displayName": "Biological Sampler",
             "category": "materials",
             "rarity": "rare",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "biologicalsampler.png",
             "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "WP_G_Pistol_Energy_01": {
-            "displayName": "Scarab",
-            "category": "weapons",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Scarab.png",
-            "maxStackSize": 0,
             "attachment_weapon": "",
             "attachment_type": ""
         },
@@ -2450,68 +2470,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "WP_D_SGun_Shard_01": {
-            "displayName": "Shattergun",
-            "category": "weapons",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Shattergun.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_01": {
-            "displayName": "Shield",
-            "category": "armor",
-            "rarity": "common",
-            "maxDurability": 500,
-            "icon": "BasicShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_04": {
-            "displayName": "Shield",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 800,
-            "icon": "EnhancedShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_05": {
-            "displayName": "Shield",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": 900,
-            "icon": "EnhancedShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_03": {
-            "displayName": "Shield",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": 700,
-            "icon": "CombatShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Shield_02": {
-            "displayName": "Shield",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": 600,
-            "icon": "StandardShields.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "ShockAbsorber": {
-            "displayName": "Shockabsorber",
+            "displayName": "Shock Absorber",
             "category": "materials",
             "rarity": "epic",
             "maxDurability": -1,
@@ -2520,178 +2480,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Shotgun": {
-            "displayName": "Shotgun Ammo",
-            "category": "ammo",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "ShotgunAmmo.png",
-            "maxStackSize": 50,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Converter_Shotgun_03": {
-            "displayName": "Shotgun Converter",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Shotgun_02": {
-            "displayName": "Shotgun Converter",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "converter"
-        },
-        "Mod_Converter_Shotgun_01": {
-            "displayName": "Shotgun Converter",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "converter"
-        },
-        "Mod_Magazine_Shotgun_01": {
-            "displayName": "Shotgun Extended",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "ShotgunExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Shotgun_02": {
-            "displayName": "Shotgun Extended",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "ShotgunExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Shotgun_03": {
-            "displayName": "Shotgun Extended",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "ShotgunExtended.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Shotgun_ReloadSpeed_01": {
-            "displayName": "Shotgun Quickdraw",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Shotgun_ReloadSpeed_02": {
-            "displayName": "Shotgun Quickdraw",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Shotgun_ReloadSpeed_03": {
-            "displayName": "Shotgun Quickdraw",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "magazine"
-        },
-        "Mod_Magazine_Shotgun_ReloadSpeed_04": {
-            "displayName": "Shotgun Quickdraw",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "magazine"
-        },
-        "Mod_Converter_Shotgun_Slug_01": {
-            "displayName": "Shotgun Slugs",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "shotgun",
-            "attachment_type": "converter"
-        },
-        "Bag_01": {
-            "displayName": "Small Backpack",
-            "category": "armor",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "SmallBackpack.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Muzzle_Small_Recoil_03": {
-            "displayName": "Small Muzzle Break",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "muzzle"
-        },
-        "Mod_Muzzle_Small_Recoil_02": {
-            "displayName": "Small Muzzle Break",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "muzzle"
-        },
-        "Mod_Muzzle_Small_Recoil_01": {
-            "displayName": "Small Muzzle Break",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "muzzle"
-        },
-        "Mod_Muzzle_Small_Supressor_01": {
-            "displayName": "Small Supressor",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "SmallSuppressor.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "light",
-            "attachment_type": "muzzle"
-        },
         "SmartMesh": {
-            "displayName": "Smartmesh",
+            "displayName": "Smart Mesh",
             "category": "materials",
             "rarity": "rare",
             "maxDurability": -1,
@@ -2700,78 +2490,8 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Consumable_SmokeGrenade_01": {
-            "displayName": "Smoke Grenade",
-            "category": "consumables",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "SmokeGrenade.png",
-            "maxStackSize": 4,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Special": {
-            "displayName": "Special Ammo",
-            "category": "ammo",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "SpecialAmmo.png",
-            "maxStackSize": 50,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "ShockGrenade_03": {
-            "displayName": "Standard Grenade",
-            "category": "consumables",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "StandardGrenade.png",
-            "maxStackSize": 4,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Stock_Standard_02": {
-            "displayName": "Standard Stock",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Standard_01": {
-            "displayName": "Standard Stock",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
-        "Vest_02": {
-            "displayName": "Standard Vest",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": 600,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "StormyCreatureDrop": {
-            "displayName": "Stormycreaturedrop",
-            "category": "materials",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 10,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "AI_StriderHead": {
-            "displayName": "Striderhead",
+            "displayName": "Strider Head",
             "category": "materials",
             "rarity": "legendary",
             "maxDurability": -1,
@@ -2781,241 +2501,31 @@
             "attachment_type": ""
         },
         "AI_StriderMeat": {
-            "displayName": "Stridermeat",
+            "displayName": "Strider Meat",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "stridermeat.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Consumable_Health_03": {
-            "displayName": "Strong Medkit",
-            "category": "consumables",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "StrongMedkit.png",
-            "maxStackSize": 2,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Consumable_Health_04": {
-            "displayName": "Strong Stim",
-            "category": "consumables",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "StrongStim.png",
-            "maxStackSize": 5,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "SuperChargedForgeIronIngot": {
-            "displayName": "Superchargedforgeironingot",
+            "displayName": "Super Charged Tharis Iron Ingot",
             "category": "materials",
             "rarity": "legendary",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "SuperChargedTharisIronIngot\n.png",
             "maxStackSize": 6,
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Vest_05": {
-            "displayName": "Superior Vest",
-            "category": "armor",
-            "rarity": "legendary",
-            "maxDurability": 1200,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_ForeGrip_ADS_03": {
-            "displayName": "Tactical Foregrip",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_ForeGrip_ADS_02": {
-            "displayName": "Tactical Foregrip",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_ForeGrip_ADS_01": {
-            "displayName": "Tactical Foregrip",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Helmet_Tactical_01": {
-            "displayName": "Tactical Helmet",
-            "category": "armor",
-            "rarity": "common",
-            "maxDurability": 500,
-            "icon": "CombatHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Tactical_04": {
-            "displayName": "Tactical Helmet",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 800,
-            "icon": "CombatHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Tactical_05": {
-            "displayName": "Tactical Helmet",
-            "category": "armor",
-            "rarity": "exotic",
-            "maxDurability": 900,
-            "icon": "CombatHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Tactical_03": {
-            "displayName": "Tactical Helmet",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": 700,
-            "icon": "CombatHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Helmet_Tactical_02": {
-            "displayName": "Tactical Helmet",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": 600,
-            "icon": "CombatHelmet.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Mod_Tactical_Flashlight_01": {
-            "displayName": "Tactical Light",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "tactical"
-        },
-        "Mod_RearGrip_ADS_02": {
-            "displayName": "Tactical Rear Grip",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "TacticalRearGrip.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_RearGrip_ADS_01": {
-            "displayName": "Tactical Rear Grip",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "TacticalRearGrip.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "all",
-            "attachment_type": "grip"
-        },
-        "Mod_Stock_Standard_ADS_01": {
-            "displayName": "Tactical Stock",
-            "category": "attachments",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Standard_ADS_02": {
-            "displayName": "Tactical Stock",
-            "category": "attachments",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
-        "Vest_Tactical_01": {
-            "displayName": "Tactical Vest I",
-            "category": "armor",
-            "rarity": "uncommon",
-            "maxDurability": 650,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Vest_Tactical_02": {
-            "displayName": "Tactical Vest Ii",
-            "category": "armor",
-            "rarity": "rare",
-            "maxDurability": 750,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Vest_Tactical_03": {
-            "displayName": "Tactical Vest Iii",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 900,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Vest_Tactical_04": {
-            "displayName": "Tactical Vest Iv",
-            "category": "armor",
-            "rarity": "epic",
-            "maxDurability": 1100,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Vest_Tactical_05": {
-            "displayName": "Tactical Vest V",
-            "category": "armor",
-            "rarity": "legendary",
-            "maxDurability": 1300,
-            "icon": "Unknown.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
         "TentaclePlant": {
-            "displayName": "Tentacleplant",
+            "displayName": "Waterweed Filament",
             "category": "materials",
             "rarity": "rare",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "WaterweedFilament.png",
             "maxStackSize": 10,
             "attachment_weapon": "",
             "attachment_type": ""
@@ -3110,38 +2620,18 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
-        "Mod__Stock_Standard_ADSEquip_01": {
-            "displayName": "Ultralight Stock",
-            "category": "attachments",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "8xOptic.png",
-            "maxStackSize": 20,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
-        "Mod_Stock_Standard_ADSEquip_02": {
-            "displayName": "Ultralight Stock",
-            "category": "attachments",
-            "rarity": "epic",
-            "maxDurability": -1,
-            "icon": "Unknown.png",
-            "maxStackSize": 0,
-            "attachment_weapon": "noheavy",
-            "attachment_type": "stock"
-        },
         "HardDrive_uncommon": {
             "displayName": "Uncommon Harddrive",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
-            "icon": "Unknown.png",
+            "icon": "UncommonHarddrive.png",
             "maxStackSize": 1,
             "attachment_weapon": "",
             "attachment_type": ""
         },
         "UncommonVelticite": {
-            "displayName": "Uncommon Veltecite",
+            "displayName": "Flawed Veltecite",
             "category": "materials",
             "rarity": "uncommon",
             "maxDurability": -1,
@@ -3160,6 +2650,346 @@
             "attachment_weapon": "",
             "attachment_type": ""
         },
+        "ZeroSystems": {
+            "displayName": "Zero Systems CPU",
+            "category": "materials",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "ZeroSystemsCPU.png",
+            "maxStackSize": 20,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "TOOL_Binocular_Basic_01": {
+            "displayName": "Binoculars",
+            "category": "tools",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Binoculars.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "TOOL_Flashlight_01": {
+            "displayName": "Flashlight",
+            "category": "tools",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Flashlight.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "TOOL_Mining_01": {
+            "displayName": "Heavy Mining Tool",
+            "category": "tools",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "HeavyMiningTool.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "TOOL_MineralScanner_01": {
+            "displayName": "Mineral Scanner",
+            "category": "tools",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "Scanner.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_D_AR_Bullet_01": {
+            "displayName": "Advocate",
+            "category": "weapons",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Advocate.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_AR_Energy_01": {
+            "displayName": "AR-55 Autorifle",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "AR-55Autorifle.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_G_SMG_Needle_01": {
+            "displayName": "Asp Flechette Gun",
+            "category": "weapons",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "AspFlechetteGun.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_SGun_Bullet_01": {
+            "displayName": "B9 Trenchgun",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "B9Trenchgun.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_G_Sniper_Energy_01": {
+            "displayName": "Basilisk",
+            "category": "weapons",
+            "rarity": "exotic",
+            "maxDurability": -1,
+            "icon": "Basilisk.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_D_Pistol_Bullet_01": {
+            "displayName": "Bulldog Pistol",
+            "category": "weapons",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Bulldog.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_Sniper_Bullet_01": {
+            "displayName": "C-32 Bolt Action",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "C-32BoltAction.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_G_AR_Beam_01": {
+            "displayName": "Gorgon",
+            "category": "weapons",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Gorgon.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_A_Pistol_Bullet_01": {
+            "displayName": "Hammer",
+            "category": "weapons",
+            "rarity": "exotic",
+            "maxDurability": -1,
+            "icon": "Hammer.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_D_LMG_Energy_01": {
+            "displayName": "ICA Guarantee",
+            "category": "weapons",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "ICAGuarantee.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_Pistol_Bullet_01": {
+            "displayName": "K-28",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "K-28.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_A_Sniper_Gauss_01": {
+            "displayName": "Karma-1",
+            "category": "weapons",
+            "rarity": "legendary",
+            "maxDurability": -1,
+            "icon": "KARMA-1.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_A_BR_Bullet_01": {
+            "displayName": "KBR Longshot",
+            "category": "weapons",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "KBRLongshot.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_D_Sniper_Gauss_01": {
+            "displayName": "Kinetic Arbiter",
+            "category": "weapons",
+            "rarity": "exotic",
+            "maxDurability": -1,
+            "icon": "KineticArbiter.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_A_SMG_Shard_01": {
+            "displayName": "KM-9 Scrapper",
+            "category": "weapons",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "KM-9'Scrapper'.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_A_Launch_MSL_01": {
+            "displayName": "Komrad",
+            "category": "weapons",
+            "rarity": "legendary",
+            "maxDurability": -1,
+            "icon": "KOMRAD.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_A_AR_Bullet_01": {
+            "displayName": "KOR-47",
+            "category": "weapons",
+            "rarity": "exotic",
+            "maxDurability": -1,
+            "icon": "KOR-47.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_D_BR_Shard_01": {
+            "displayName": "Lacerator",
+            "category": "weapons",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "Lacerator.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_G_AR_Needle_01": {
+            "displayName": "Manticore",
+            "category": "weapons",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Manticore.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_Legendary_Sniper_Energy_01": {
+            "displayName": "Phasic Lancer",
+            "category": "weapons",
+            "rarity": "epic",
+            "maxDurability": 1400,
+            "icon": "PhasicLancer.png",
+            "maxStackSize": 1,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_G_AR_Energy_01": {
+            "displayName": "Phasic Lancer",
+            "category": "weapons",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "PhasicLancer.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_A_SGun_Energy_01": {
+            "displayName": "PKR Maelstrom",
+            "category": "weapons",
+            "rarity": "rare",
+            "maxDurability": -1,
+            "icon": "PKRMaelstrom.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_AR_Energy_01_scrappy": {
+            "displayName": "Rusty AR-55",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "RustyAR-55Autorifle.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_Pistol_Bullet_01_scrappy": {
+            "displayName": "Rusty K-28",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "RustyK-28.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_SMG_Bullet_01_scrappy": {
+            "displayName": "Rusty PDW",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "RustyS-576PDW.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_SGun_Bullet_01_scrappy": {
+            "displayName": "Rusty Trenchgun",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "RustyB9Trenchgun.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_E_SMG_Bullet_01": {
+            "displayName": "S-576 PDW",
+            "category": "weapons",
+            "rarity": "common",
+            "maxDurability": -1,
+            "icon": "S-576PDW.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_G_Pistol_Energy_01": {
+            "displayName": "Scarab",
+            "category": "weapons",
+            "rarity": "uncommon",
+            "maxDurability": -1,
+            "icon": "Scarab.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
+        "WP_D_SGun_Shard_01": {
+            "displayName": "Shattergun",
+            "category": "weapons",
+            "rarity": "epic",
+            "maxDurability": -1,
+            "icon": "Shattergun.png",
+            "maxStackSize": 0,
+            "attachment_weapon": "",
+            "attachment_type": ""
+        },
         "WP_D_SMG_Energy_01": {
             "displayName": "Voltaic Brute",
             "category": "weapons",
@@ -3167,56 +2997,6 @@
             "maxDurability": -1,
             "icon": "VoltaicBrute.png",
             "maxStackSize": 0,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "ShockGrenade_01": {
-            "displayName": "Weak Grenade",
-            "category": "consumables",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "StandardGrenade.png",
-            "maxStackSize": 4,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Consumable_Health_02": {
-            "displayName": "Weak Medkit",
-            "category": "consumables",
-            "rarity": "uncommon",
-            "maxDurability": -1,
-            "icon": "WeakMedkit.png",
-            "maxStackSize": 5,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Consumable_Health_01": {
-            "displayName": "Weak Stim",
-            "category": "consumables",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "WeakStim.png",
-            "maxStackSize": 5,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "Bag_01_broken": {
-            "displayName": "Worn Emergency Bag",
-            "category": "armor",
-            "rarity": "common",
-            "maxDurability": -1,
-            "icon": "WornEmergencyBag.png",
-            "maxStackSize": 1,
-            "attachment_weapon": "",
-            "attachment_type": ""
-        },
-        "ZeroSystems": {
-            "displayName": "Zero Systems Cpu",
-            "category": "materials",
-            "rarity": "rare",
-            "maxDurability": -1,
-            "icon": "ZeroSystemsCPU.png",
-            "maxStackSize": 20,
             "attachment_weapon": "",
             "attachment_type": ""
         },
